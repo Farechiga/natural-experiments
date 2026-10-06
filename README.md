@@ -26,6 +26,7 @@ secrets.
 
 - Japan and South Korea, `Why Did Christianity Grow Differently in South Korea and Japan?`
 - New York and Los Angeles, `Why Did New York Grow Around Trains While Los Angeles Grew Around Cars?`
+- Athens and Sparta, `Why Did Athens and Sparta Become So Different?`
 
 ## Local Preview
 
@@ -51,6 +52,7 @@ The web player expects:
 - `audio/percy-jackson-lightning-thief.mp3`
 - `audio/natural-experiments/korea-japan-christianity.mp3`
 - `audio/natural-experiments/new-york-los-angeles-transit-cars.mp3`
+- `audio/natural-experiments/athens-sparta-societies.mp3`
 
 Until those files exist, the page still shows the scripts and will report that
 the selected recording has not been generated yet.

@@ -638,5 +638,283 @@
         "note": "Used for New York subway annual ridership, system scale, and 2024 transit context."
       }
     ]
+  },
+  {
+    "id": "athens-sparta-societies",
+    "title": "Why Did Athens and Sparta Become So Different?",
+    "author": "Natural experiment",
+    "lengthLabel": "investigation",
+    "focus": "Two Greek city-states shared language, gods, and enemies, but trained their people for almost opposite lives.",
+    "framing": "Athens and Sparta were both Greek poleis: independent city-states in the same Greek world, speaking Greek, honoring many of the same gods, and fighting side by side against Persia before becoming fierce rivals.",
+    "comparisonPoints": [
+      {
+        "label": "Same Greek world",
+        "detail": "OpenStax describes the Greeks as politically divided into city-states but sharing a common language and religion."
+      },
+      {
+        "label": "Two leading poleis",
+        "detail": "OpenStax calls Athens and Sparta two of the most important Greek city-states of the Archaic and Classical periods."
+      },
+      {
+        "label": "Shared war, later rivalry",
+        "detail": "OpenStax notes that during the Persian invasion Sparta commanded Greek land forces while Athens led the fleet; later, the rivalry between the two cities led to war."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "Athens developed a direct democracy for adult male citizens, while Sparta became an oligarchic military society where boys entered the agoge around age seven and helot labor supported the citizen-warrior class."
+    },
+    "audioSrc": "audio/natural-experiments/athens-sparta-societies.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery. Athens and Sparta were both Greek cities. They spoke Greek. They honored many of the same gods. They knew the same kinds of myths, sacrifices, festivals, and heroic stories.",
+      "They were not identical, of course. No two cities are. But they belonged to the same Greek world, and they were close enough that they could fight beside each other when Persia invaded.",
+      "So why did they become so different?",
+      "Athens became famous for direct democracy, public argument, juries, theater, ships, trade, and a city life full of noise and persuasion. Sparta became famous for discipline, obedience, land armies, strict training, few luxuries, and a citizen class built around war.",
+      "Hmm. Interesting.",
+      "The easy guesses do not quite work. It is not just language, because both spoke Greek. It is not just religion, because both honored Greek gods. It is not simply that Athenians were naturally chatty and Spartans were naturally stern. People do not arrive with a whole constitution tucked inside their sandals.",
+      "So we ask: what problem did each city train itself to solve?",
+      "Athens sat in Attica, with access to the sea and a port at Piraeus. Over time, its citizens built institutions where adult male citizens could argue, vote, serve on juries, and decide public matters. That democracy excluded women, enslaved people, and foreign residents, so it was not democracy for everyone. But for citizen men, the city practiced public speech like a muscle.",
+      "Sparta's great turning point was land conquest. It conquered Messenia and turned many of the people there into helots, forced laborers tied to the land. That gave Spartan citizens food and freedom from ordinary work, but it also created danger. The helots were many, angry, and essential.",
+      "So Sparta trained itself around control and readiness. Spartan boys left home around age seven for the agoge, a hard state training system meant to make them tough soldiers. The citizen's job was not to become a merchant, playwright, sailor, or courtroom speaker. His job was to fight and prepare to fight.",
+      "That is the natural experiment. Shared culture did not produce the same society, because each city kept practicing a different answer to a different problem.",
+      "Athens asked: how do citizens argue and decide? Sparta asked: how do a few citizens stay disciplined enough to rule land and hold power?",
+      "The question to keep is: when a society trains people every day for one kind of problem, what kind of people does it slowly make?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Athens and Sparta were both Greek cities. They spoke Greek. They honored many of the same gods. They knew the same kinds of myths, sacrifices, festivals, and heroic stories."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So this is not comparing a city to a completely different civilization. They are cousins in the same Greek family.",
+        "audioText": "[crisp, checking] So this is not comparing a city to a completely different civilization. They are cousins in the same Greek family."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly, Audrey. OpenStax describes the Greeks as politically divided into city-states, but sharing a common language and religion."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Same stories in the air, same gods on the mountain, but different lives on the ground.",
+        "audioText": "[softly] Same stories in the air, same gods on the mountain, but different lives on the ground."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. They were close enough to fight beside each other when Persia invaded: Sparta commanded Greek land forces, while Athens led the fleet."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Then comes the reveal."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Athens became famous for direct democracy, public argument, juries, theater, ships, trade, and a city life full of noise and persuasion."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Sparta became famous for discipline, obedience, land armies, strict training, few luxuries, and a citizen class built around war."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That is not a tiny difference. That is two cities giving opposite homework assignments.",
+        "audioText": "[incredulous] That is not a tiny difference. That is two cities giving opposite homework assignments."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "One city teaches you to speak in public. One city teaches you to stand in line and endure.",
+        "audioText": "[thoughtfully] One city teaches you to speak in public. One city teaches you to stand in line and endure."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. Pause there."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Hmm. Interesting."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Now we test some easy guesses."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "First suspect: maybe Athens and Sparta were different because they worshipped different gods.",
+        "audioText": "[decisive] First suspect: maybe Athens and Sparta were different because they worshipped different gods."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Not enough. Greek religion had local forms, but Athens and Sparta lived inside the same larger Greek religious world."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the gods do not explain the whole difference.",
+        "audioText": "[gently] So the gods do not explain the whole difference."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. Second suspect: maybe Athenians were simply born talkative and Spartans were born stern."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Suspicious. No baby arrives with an oligarchy in its blanket.",
+        "audioText": "[primly skeptical] Suspicious. No baby arrives with an oligarchy in its blanket."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. So we ask a better question: what problem did each city train itself to solve?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Athens sat in Attica, with access to the sea and the port of Piraeus. It became tied to ships, trade, empire, and a public life where citizen men argued and voted."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Important correction: citizen men. Not everyone.",
+        "audioText": "[firmly] Important correction: citizen men. Not everyone."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. Athenian democracy excluded women, enslaved people, and foreign residents. Still, for adult male citizens, the Assembly and juries made public speech part of city life."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So Athens practiced arguing the way a musician practices scales.",
+        "audioText": "[soft wonder] So Athens practiced arguing the way a musician practices scales."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. The Acropolis Museum says the Citizens Assembly was the main state body of Classical Athens and met more than forty times a year."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "More than forty meetings a year. That is a lot of civic arguing.",
+        "audioText": "[impressed] More than forty meetings a year. That is a lot of civic arguing."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Now compare Sparta. Sparta's great turning point was land conquest. It conquered Messenia and turned many of the people there into helots, forced laborers tied to the land."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That sounds like the kind of victory that creates fear inside the victory.",
+        "audioText": "[quietly] That sounds like the kind of victory that creates fear inside the victory."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It did. Helot labor fed Spartan citizens, but helots were many, angry, and essential. That made control a daily problem."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So if your society depends on people you have conquered, you become obsessed with keeping control.",
+        "audioText": "[precise] So if your society depends on people you have conquered, you become obsessed with keeping control."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. Spartan boys entered the agoge around age seven: a hard state training system meant to make them tough soldiers."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Age seven? That is not school as enrichment. That is school as city machinery.",
+        "audioText": "[sharply] Age seven? That is not school as enrichment. That is school as city machinery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The citizen's job was not to become a merchant, playwright, sailor, or courtroom speaker. His job was to fight and prepare to fight."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Then Sparta was not only building an army. It was building a whole childhood around the army.",
+        "audioText": "[softly] Then Sparta was not only building an army. It was building a whole childhood around the army."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the natural experiment. Shared culture did not produce the same society, because each city kept practicing a different answer to a different problem."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Athens asks: how do citizens argue and decide?",
+        "audioText": "[clear and deliberate] Athens asks: how do citizens argue and decide?"
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Sparta asks: how do we stay hard enough to hold what we took?",
+        "audioText": "[quietly] Sparta asks: how do we stay hard enough to hold what we took?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "And the question to keep is: when a society trains people every day for one kind of problem, what kind of people does it slowly make?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStax, World History Volume 1: Ancient Greece",
+        "url": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece",
+        "note": "Used for Greek city-states, shared language and religion, Athens and Sparta as leading poleis, Athenian direct democracy, Sparta's oligarchy, Messenia, helots, and Persian War context."
+      },
+      {
+        "label": "Acropolis Museum, Citizens Assembly",
+        "url": "https://www.theacropolismuseum.gr/en/node/1167",
+        "note": "Used for the Ekklesia as the main state body of Classical Athens, its meeting frequency, and adult male citizen participation."
+      },
+      {
+        "label": "National Geographic, Sparta",
+        "url": "https://education.nationalgeographic.org/resource/sparta/",
+        "note": "Used for Sparta's social classes, helots, two kings, military focus, and the agoge beginning around age seven."
+      },
+      {
+        "label": "Open Yale Courses, Introduction to Ancient Greek History: Sparta",
+        "url": "https://oyc.yale.edu/classics/clcv-205/lecture-9",
+        "note": "Used for the role of helots in Sparta's economy and security problem, the agoge, and the citizen-warrior focus of the Spartiates."
+      },
+      {
+        "label": "British Museum, Greece: Athens and Lycia",
+        "url": "https://www.britishmuseum.org/collection/galleries/greece-athens-and-lycia",
+        "note": "Used for democratic Athens building a powerful maritime empire after the Persian Wars."
+      }
+    ]
   }
 ]
