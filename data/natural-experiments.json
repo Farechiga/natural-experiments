@@ -916,5 +916,283 @@
         "note": "Used for democratic Athens building a powerful maritime empire after the Persian Wars."
       }
     ]
+  },
+  {
+    "id": "china-europe-printing-press",
+    "title": "Why Did Movable Type Explode in Europe After Starting Earlier in China?",
+    "author": "Natural experiment",
+    "lengthLabel": "investigation",
+    "focus": "China had printing centuries earlier, but Gutenberg's alphabet-friendly type found a different fuse in Europe.",
+    "framing": "China and Europe both had readers, texts, schools, officials, religion, and demand for reliable copies. China developed printing much earlier, yet Gutenberg-style movable metal type spread explosively through Europe.",
+    "comparisonPoints": [
+      {
+        "label": "China printed early",
+        "detail": "The British Library identifies the Diamond Sutra, printed in China in 868, as the world's earliest complete dated printed book."
+      },
+      {
+        "label": "China also had movable type early",
+        "detail": "The Library of Congress says Bi Sheng invented movable type in China between 1041 and 1048, more than four centuries before Gutenberg."
+      },
+      {
+        "label": "Both worlds had book demand",
+        "detail": "The Library of Congress notes that China's imperial bureaucracy created demand for exam texts, while European printers found markets for Bibles, schoolbooks, and reference works."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "Movable type stayed limited in China, where woodblock printing remained dominant, but in Europe Gutenberg's system helped launch about 30,000 editions by 1500, according to Oxford's 15cBOOKTRADE project."
+    },
+    "audioSrc": "audio/natural-experiments/china-europe-printing-press.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery. China had printing long before Europe did. The Diamond Sutra, printed in China in 868, is the world's earliest complete dated printed book. And movable type was invented in China by Bi Sheng between 1041 and 1048.",
+      "Then, more than four hundred years later, Gutenberg used movable metal type in Europe. The Gutenberg Bible was probably completed in Mainz in 1455.",
+      "So why does Gutenberg's press become the famous explosion? Why did movable type take off so fiercely in Europe, when China had been there first?",
+      "The easy guesses do not work. It is not that China lacked books. It had Buddhist texts, Confucian classics, histories, almanacs, commercial publishers, and a huge exam system that made books useful to ambitious families. It is not that Europeans were simply more inventive. China had already invented paper, woodblock printing, and movable type.",
+      "Hmm. Interesting.",
+      "The first clue is the writing system. Latin alphabet printing needs a small box of repeatable letters. You can use the same a, b, c, and d again and again to build thousands of words. Chinese printing uses characters. A printer might need thousands of different pieces, plus many copies of common characters.",
+      "That changes the price of the trick. In Europe, movable type was like a small set of toy bricks that could build endless castles. In China, movable type could work, but the box of bricks was enormous.",
+      "The second clue is that China already had a very good solution: woodblock printing. For a page of Chinese text, a skilled carver could cut the whole page into a block. If people wanted that page again, the block could be stored and reused. For many Chinese books, that made sense.",
+      "The third clue is Europe in the 1400s. Europe had alphabetic scripts, growing towns, universities, church demand, legal documents, schoolbooks, and many competing rulers and cities. A printer who found trouble or opportunity in one place could move, copy, sell, and try again somewhere else.",
+      "Gutenberg's breakthrough was not just one machine. It was a bundle: reusable metal letters, a way to cast them evenly, ink that worked on metal, a press, paper, money, and customers.",
+      "So was it cultural? A little, if culture means what people wanted to copy and who would buy it. But the deeper answer is not that one civilization loved knowledge more. The deeper answer is fit.",
+      "In China, printing already had a strong path through woodblocks and a writing system that made movable type expensive. In Europe, the alphabet, markets, religious texts, schools, and city competition made movable type pay off fast.",
+      "The question to keep is: when an invention appears, does the world around it make it useful, cheap, and worth repeating?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "China had printing long before Europe did. The Diamond Sutra, printed in China in 868, is the world's earliest complete dated printed book."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Eight sixty-eight? That is not a small head start. That is centuries.",
+        "audioText": "[incredulous] Eight sixty-eight? That is not a small head start. That is centuries."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly, Audrey. And movable type was invented in China by Bi Sheng between 1041 and 1048."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the story does not begin with Gutenberg walking into a dark room and turning on the only light.",
+        "audioText": "[softly] So the story does not begin with Gutenberg walking into a dark room and turning on the only light."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. Gutenberg matters, but he did not invent printing from nothing. His Bible was probably completed in Mainz in 1455, more than four hundred years after Bi Sheng."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Then why is Gutenberg the one everyone remembers?",
+        "audioText": "[quickly] Then why is Gutenberg the one everyone remembers?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the reveal. Movable type stayed limited in China, where woodblock printing remained dominant. But in Europe, Gutenberg-style printing spread quickly. Oxford's 15cBOOKTRADE project says roughly thirty thousand European editions survive from before 1500."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the question is not who had the spark first. It is where the spark found dry wood.",
+        "audioText": "[thoughtfully] So the question is not who had the spark first. It is where the spark found dry wood."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. Pause there."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Hmm. Interesting."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Now we test some easy guesses."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "First suspect: maybe China simply did not need many books.",
+        "audioText": "[decisive] First suspect: maybe China simply did not need many books."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "No. China had Buddhist texts, Confucian classics, histories, almanacs, commercial publishers, and a huge examination system. The Library of Congress notes that China's imperial bureaucracy created demand for large quantities of texts."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So not book shortage. Cross that off.",
+        "audioText": "[crisp] So not book shortage. Cross that off."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "A whole exam world would make books feel like ladders.",
+        "audioText": "[soft wonder] A whole exam world would make books feel like ladders."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. Second suspect: maybe Europeans were simply more inventive."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Suspicious. China had already invented paper, woodblock printing, and movable type. That theory collapses immediately.",
+        "audioText": "[firmly] Suspicious. China had already invented paper, woodblock printing, and movable type. That theory collapses immediately."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. So we need better clues."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "First clue: the writing system. Latin alphabet printing needs a small box of repeatable letters. You can use the same a, b, c, and d again and again to build thousands of words."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Chinese printing uses characters. A printer might need thousands of different pieces, plus many copies of common characters."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So in Europe, movable type is like a compact tool kit. In China, the tool kit becomes a warehouse.",
+        "audioText": "[precise, pleased] So in Europe, movable type is like a compact tool kit. In China, the tool kit becomes a warehouse."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. The Library of Congress puts the contrast sharply: no more than about one hundred types for the Latin alphabet, compared with a vastly larger number for Chinese printing."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Same idea, different price tag.",
+        "audioText": "[quietly] Same idea, different price tag."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Second clue: China already had a very good solution. Woodblock printing."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "A whole page carved into one block, yes?",
+        "audioText": "[checking] A whole page carved into one block, yes?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. For a page of Chinese text, a skilled carver could cut the whole page into a block. If people wanted that page again, the block could be stored and reused."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So movable type was not competing with nothing. It was competing with something that already worked.",
+        "audioText": "[thoughtfully] So movable type was not competing with nothing. It was competing with something that already worked."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. Third clue: Europe in the 1400s. Alphabetic scripts, growing towns, universities, church demand, legal documents, schoolbooks, and many competing rulers and cities."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So if one city is difficult, a printer can try another city.",
+        "audioText": "[quickly] So if one city is difficult, a printer can try another city."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. Gutenberg's breakthrough was not just one machine. It was a bundle: reusable metal letters, a way to cast them evenly, ink that worked on metal, a press, paper, money, and customers."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the invention needed a whole little world around it.",
+        "audioText": "[softly] So the invention needed a whole little world around it."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. So was it cultural? A little, if culture means what people wanted to copy and who would buy it. But the deeper answer is not that one civilization loved knowledge more."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "The deeper answer is fit.",
+        "audioText": "[clear and exact] The deeper answer is fit."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Fit. In China, printing already had a strong path through woodblocks, and the writing system made movable type expensive. In Europe, the alphabet, markets, religious texts, schools, and city competition made movable type pay off fast."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Not better minds. A better match between tool and world.",
+        "audioText": "[gently] Not better minds. A better match between tool and world."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the question to keep: when an invention appears, does the world around it make it useful, cheap, and worth repeating?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "British Library, The Diamond Sutra",
+        "url": "https://idp.bl.uk/discover/learning/buddhism-on-the-silk-roads/articles/buddhism-on-the-ground/buddhist-texts-the-diamond-sutra/",
+        "note": "Used for the Diamond Sutra as the earliest complete dated printed book, completed in China on May 11, 868, and for early Chinese woodblock printing context."
+      },
+      {
+        "label": "Library of Congress, History of Printing in Asia",
+        "url": "https://blogs.loc.gov/international-collections/2021/06/the-history-of-printing-in-asia-according-to-library-of-congress-asian-collections-part-1/",
+        "note": "Used for Bi Sheng's movable type dates, the dominance of woodblock printing in China, language-structure costs, and the demand created by the imperial bureaucracy."
+      },
+      {
+        "label": "Columbia Asia for Educators, Song Dynasty Printing",
+        "url": "https://afe.easia.columbia.edu/songdynasty-module/tech-printing.html",
+        "note": "Used for Bi Sheng, movable type's limited use in China, woodblock printing's lower cost, Wang Zhen, and Korean metal movable type context."
+      },
+      {
+        "label": "Library of Congress, The Gutenberg Bible",
+        "url": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html",
+        "note": "Used for Gutenberg's movable metal type, Mainz, the likely 1455 completion of the Bible, and the importance of uniform interchangeable metal type."
+      },
+      {
+        "label": "Oxford Cabinet, The Spread of Printing in Europe, 1455-1500",
+        "url": "https://www.cabinet.ox.ac.uk/spread-printing-europe-1455-1500",
+        "note": "Used for the rapid spread of European printing and the Incunabula Short Title Catalogue's roughly 30,000 editions before 1500."
+      },
+      {
+        "label": "Europeana, From manuscript production to the printing press",
+        "url": "https://www.europeana.eu/en/stories/from-manuscript-production-to-the-printing-press",
+        "note": "Used for Gutenberg-era European movable type in Mainz, the metal-letter workflow, faster page production, and the spread of knowledge through print."
+      }
+    ]
   }
 ]
