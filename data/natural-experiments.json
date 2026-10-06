@@ -342,5 +342,301 @@
         "note": "Used for Korean Christianity's links to education, medicine, modernity, civil society, and nationalism."
       }
     ]
+  },
+  {
+    "id": "new-york-los-angeles-transit-cars",
+    "title": "Why Did New York Grow Around Trains While Los Angeles Grew Around Cars?",
+    "author": "Natural experiment",
+    "lengthLabel": "investigation",
+    "focus": "Two giant American metro areas look like peers, until the commute numbers reveal two different city skeletons.",
+    "framing": "New York and Los Angeles are both huge, rich, diverse U.S. metro areas, but one learned to gather around trains while the other learned to spread across roads, freeways, and many centers.",
+    "comparisonPoints": [
+      {
+        "label": "Giant coastal metros",
+        "detail": "Census Reporter, using ACS 2024 data, puts the New York metro area at about 19.9 million people and the Los Angeles metro area at about 12.9 million."
+      },
+      {
+        "label": "High-income, high-cost regions",
+        "detail": "ACS 2024 estimates put median household income near $99,900 in the New York metro and $96,400 in the Los Angeles metro, with owner-occupied home values far above the U.S. figure in both places."
+      },
+      {
+        "label": "Global gateway regions",
+        "detail": "ACS 2024 estimates say foreign-born residents are about 30.8% of the New York metro and 33.4% of the Los Angeles metro."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "ACS 2024 commute data shows about 27% of New York metro workers used public transportation, compared with about 3.5% in the Los Angeles metro. Inside the central cities, the split was about 49% in New York City and 6% in Los Angeles."
+    },
+    "audioSrc": "audio/natural-experiments/new-york-los-angeles-transit-cars.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery. New York and Los Angeles are both giant American metro areas. Both are coastal. Both are expensive. Both are full of immigrants, jobs, movies, money, music, languages, and people trying to get somewhere.",
+      "According to Census Reporter, using 2024 American Community Survey data, the New York metro area had about nineteen point nine million people. The Los Angeles metro had about twelve point nine million. Their median household incomes were not wildly far apart either: about ninety-nine thousand nine hundred dollars in the New York metro and ninety-six thousand four hundred in the Los Angeles metro.",
+      "So they belong in the same big-city conversation.",
+      "Then the reveal: in the New York metro, about twenty-seven percent of workers used public transportation to get to work. In the Los Angeles metro, it was about three and a half percent. Inside the central cities, the split was sharper: about forty-nine percent in New York City and about six percent in Los Angeles.",
+      "Hmm. Interesting.",
+      "The easy guesses do not quite work. It is not just weather. It is not just wealth. And it is definitely not that Los Angeles has no transit. LA Metro reported more than three hundred eleven million boardings in 2024, and its rail system now has more than one hundred miles of service.",
+      "So what happened?",
+      "New York became crowded early, before ordinary families owned cars. It had elevated trains in the 1800s. After the 1888 blizzard froze above-ground travel, the case for underground trains became stronger. The first official subway opened in 1904, and by 1915 the IRT reached every borough except Staten Island. The subway did not just serve neighborhoods. It helped make them.",
+      "Los Angeles had trains too. Streetcars were still strong in the 1920s. But LA grew explosively just as the automobile was becoming ordinary. The Los Angeles Public Library describes 1920s LA as one of the first truly car-centric cities: by 1925, there was one car for every three residents, twice the national average.",
+      "And LA was not built around only one center. It became a constellation: downtown, Hollywood, Wilshire, the ports, beach cities, studio towns, valleys, airports. Planners might call that polycentric. For kids, say this: instead of one giant magnet in the middle, LA had many magnets spread across the map.",
+      "Once homes, stores, studios, and jobs spread out, the car became the tool that connected the dots. Then roads and freeways made driving easier, which made spreading out easier, which made driving feel even more necessary.",
+      "So the answer is not that New Yorkers are train people and Angelenos are car people by nature. The old choices taught each city a habit.",
+      "The question to keep is: when a city is still choosing its bones, does it teach people to gather at stations or scatter toward parking lots?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "New York and Los Angeles are both giant American metro areas. Both are coastal. Both are expensive. Both are full of immigrants, jobs, movies, money, music, languages, and people trying to get somewhere."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "A proper comparison, then. Not two random dots on a map.",
+        "audioText": "[prim, approving] A proper comparison, then. Not two random dots on a map."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. According to Census Reporter, using 2024 American Community Survey data, the New York metro area had about nineteen point nine million people. The Los Angeles metro had about twelve point nine million."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Their median household incomes were not wildly far apart either: about ninety-nine thousand nine hundred dollars in the New York metro and ninety-six thousand four hundred in the Los Angeles metro."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So they are both enormous, expensive places where lots of people are trying to make a life.",
+        "audioText": "[thoughtfully] So they are both enormous, expensive places where lots of people are trying to make a life."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly, Paxten. Now the reveal."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "In the New York metro, about twenty-seven percent of workers used public transportation to get to work. In the Los Angeles metro, it was about three and a half percent."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That is not a small gap. That is a gap wearing a flashing sign.",
+        "audioText": "[incredulous] That is not a small gap. That is a gap wearing a flashing sign."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Inside the central cities, the split is sharper. About forty-nine percent of New York City workers used public transportation, compared with about six percent in the city of Los Angeles."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Almost one out of two. And then about one out of sixteen. Hmm.",
+        "audioText": "[softly, surprised] Almost one out of two. And then about one out of sixteen. Hmm."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Hmm. Interesting."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Now we test some easy guesses."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Weather. I can hear someone blaming sunshine already.",
+        "audioText": "[dryly] Weather. I can hear someone blaming sunshine already."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Fair suspect, but not enough. Sunshine does not automatically build freeways, parking lots, and spread-out job centers."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the weather may invite people outside, but it does not draw the street map.",
+        "audioText": "[gently] So the weather may invite people outside, but it does not draw the street map."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. Another guess: maybe Los Angeles just has no transit."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That sounds suspiciously too simple.",
+        "audioText": "[crisp] That sounds suspiciously too simple."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It is. LA Metro reported more than three hundred eleven million boardings in 2024. Its rail system now has more than one hundred miles of service and more than one hundred stations."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So Los Angeles is not transit-empty. The question is why transit did not become the main skeleton.",
+        "audioText": "[precise] So Los Angeles is not transit-empty. The question is why transit did not become the main skeleton."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. Now compare the old bones."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "New York became crowded early, before ordinary families owned cars. It had elevated trains in the 1800s. After the 1888 blizzard froze above-ground travel, the case for underground trains became stronger."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The first official subway opened in 1904, and by 1915 the IRT reached every borough except Staten Island."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the train was not just moving through the city. It was helping make the city.",
+        "audioText": "[soft wonder] So the train was not just moving through the city. It was helping make the city."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. New York City planning documents say many outer-borough neighborhoods with higher density were built near elevated rail or subway lines."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Station first, crowd follows. A very tidy mechanism.",
+        "audioText": "[pleased] Station first, crowd follows. A very tidy mechanism."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Los Angeles is trickier. It had trains too. Streetcars were still strong in the 1920s. But LA grew explosively just as the automobile was becoming ordinary."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The Los Angeles Public Library describes 1920s LA as one of the first truly car-centric cities. By 1925, there was one car for every three residents, twice the national average."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "One car for every three people in 1925? That is not a side note. That is the plot.",
+        "audioText": "[incredulous, delighted] One car for every three people in 1925? That is not a side note. That is the plot."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "And LA was not built around only one center. It became a constellation: downtown, Hollywood, Wilshire, the ports, beach cities, studio towns, valleys, airports."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Not one giant magnet in the middle. Lots of smaller magnets spread across the map.",
+        "audioText": "[thoughtfully] Not one giant magnet in the middle. Lots of smaller magnets spread across the map."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. Planners might call that polycentric, which just means many centers."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Many centers means many trips that do not all point downtown.",
+        "audioText": "[quickly] Many centers means many trips that do not all point downtown."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. Once homes, stores, studios, and jobs spread out, the car became the tool that connected the dots. Then roads and freeways made driving easier, which made spreading out easier, which made driving feel even more necessary."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Like a habit the city kept practicing until it felt natural.",
+        "audioText": "[softly] Like a habit the city kept practicing until it felt natural."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is the natural experiment. New Yorkers are not train people by nature, and Angelenos are not car people by nature. The old choices taught each city a habit."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The question to keep is: when a city is still choosing its bones, does it teach people to gather at stations or scatter toward parking lots?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Census Reporter, New York metro profile",
+        "url": "https://censusreporter.org/profiles/31000US35620-new-york-newark-jersey-city-ny-nj-metro-area/",
+        "note": "Used for ACS 2024 New York metro population, density, income, home value, foreign-born share, and commute-time context."
+      },
+      {
+        "label": "Census Reporter, Los Angeles metro profile",
+        "url": "https://censusreporter.org/profiles/31000US31080-los-angeles-long-beach-anaheim-ca-metro-area/",
+        "note": "Used for ACS 2024 Los Angeles metro population, density, income, home value, foreign-born share, and commute-time context."
+      },
+      {
+        "label": "Census Reporter API, ACS 2024 commute modes for New York and Los Angeles metros",
+        "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B08301&geo_ids=31000US35620,31000US31080",
+        "note": "Used for metro-area public transportation and drive-alone commute shares."
+      },
+      {
+        "label": "Census Reporter API, ACS 2024 commute modes for New York City and Los Angeles city",
+        "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B08301&geo_ids=16000US3651000,16000US0644000",
+        "note": "Used for the sharper central-city public transportation and drive-alone commute shares."
+      },
+      {
+        "label": "Library of Congress, brief history of New York elevated rail and subway lines",
+        "url": "https://blogs.loc.gov/maps/2022/05/what-goes-up-must-come-down-a-brief-history-of-new-york-citys-elevated-rail-and-subway-lines/",
+        "note": "Used for New York elevated railway history, the 1888 blizzard, the 1904 subway opening, early IRT expansion, and the subway's rapid growth."
+      },
+      {
+        "label": "NYC Planning, Sustainable Communities in the Bronx introduction",
+        "url": "https://www.nyc.gov/assets/planning/download/pdf/plans-studies/sustainable-communities/bmn/bronx_metro_report/introduction.pdf",
+        "note": "Used for the relationship between subway/elevated rail access and outer-borough density and growth."
+      },
+      {
+        "label": "Los Angeles Public Library, Los Angeles in the 1920s",
+        "url": "https://www.lapl.org/news-stories/articles/los-angeles-miracle-city-la-1920s",
+        "note": "Used for 1920s car ownership, Los Angeles as an early car-centric city, streetcars at peak ridership, and the shift toward rules favoring motorists."
+      },
+      {
+        "label": "LA Metro, 2024 ridership release",
+        "url": "https://www.metro.net/about/media-relations/la-metros-2024-ridership-soars-to-more-than-311-million-marking-significant-growth/",
+        "note": "Used for LA Metro's 2024 boardings and recovery context."
+      },
+      {
+        "label": "LA Metro, Facts at a Glance",
+        "url": "https://www.metro.net/about/facts-glance/",
+        "note": "Used for LA Metro rail mileage, line count, and station count."
+      },
+      {
+        "label": "MTA, Subway and bus ridership for 2024",
+        "url": "https://www.mta.info/agency/new-york-city-transit/ridership/2024",
+        "note": "Used for New York subway annual ridership, system scale, and 2024 transit context."
+      }
+    ]
   }
 ]
