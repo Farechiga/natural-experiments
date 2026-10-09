@@ -84,6 +84,14 @@ Use one clear number pair or contrast when possible:
 
 This should feel like the moment the listener says: wait, why?
 
+But do not force a headline. Sometimes the best lesson is that the comparison
+does not produce a dramatic divergence. Say that plainly:
+
+> This is a real signal, not a thunderclap.
+
+Good comparative thinking includes restraint. If the evidence is modest, teach
+the listener to say "interesting, but not case closed."
+
 ## False Suspects
 
 List two or three tempting explanations, then show why they are incomplete.
@@ -158,8 +166,9 @@ Use this structure:
 3. Reveal: 1 sharp number pair or contrast.
 4. False suspects: 2-3 tempting explanations that do not fully work.
 5. Better clues: 3-5 grounded historical, structural, or data clues.
-6. Pattern name: what opened, what locked in, what habit grew?
-7. Final question: something reusable, not just this case.
+6. Evidence strength: strong divergence, modest signal, or weak/no pattern?
+7. Pattern name: what opened, what locked in, what habit grew?
+8. Final question: something reusable, not just this case.
 
 ## Kid Voice and Pauses
 

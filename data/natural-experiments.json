@@ -1200,7 +1200,7 @@
     "title": "Why Does Minneapolis Bike More Than Milwaukee?",
     "author": "Comparative mystery",
     "lengthLabel": "investigation",
-    "focus": "Two cold Upper Midwest rivals look bike-ready on paper, but one has made biking feel much more ordinary.",
+    "focus": "Two cold Upper Midwest rivals look bike-ready on paper, but the cleanest lesson may be that the biking gap is real and modest.",
     "framing": "Minneapolis and Milwaukee are cold Upper Midwest cities with lakes, rivers, industrial legacies, northern European roots, and a friendly rivalry. So why does Minneapolis show a stronger biking habit?",
     "comparisonPoints": [
       {
@@ -1225,13 +1225,13 @@
       "Here is the mystery. Minneapolis and Milwaukee are the kind of cities that can start an argument with a single sentence. Which one is colder? Which one has better lakes? Which one gets to brag harder about biking?",
       "They make a surprisingly fair comparison. Both sit in the Upper Midwest. Both have real winter. Both grew with industry, rivers, lake water, immigrant neighborhoods, universities, and a lot of Germanic or northern European family history.",
       "And the snow does not rescue us. NOAA climate normals put Milwaukee's annual snowfall at about 48.7 inches. Minnesota climate normals put Minneapolis at about 51.2. That is close enough that winter cannot be the whole answer.",
-      "Now the reveal. The Census Bureau's 2024 ACS five-year estimates put bicycle commuting at about 2.0 percent of Minneapolis workers and about 0.5 percent of Milwaukee workers. That is roughly four times as high in Minneapolis.",
+      "Now the reveal. The Census Bureau's 2024 ACS five-year estimates put bicycle commuting at about 2.0 percent of Minneapolis workers and about 0.5 percent of Milwaukee workers. That is roughly four times as high in Minneapolis. But pause. In absolute terms, both numbers are small. This is a real signal, not a thunderclap.",
       "So we test suspects. Is Minneapolis just braver in snow pants? Funny, but no. Is it ancestry? Minneapolis has German, Norwegian, and Swedish roots. Milwaukee has deep German and Polish roots. Culture may shape politics and habits, but ancestry does not paint bike lanes. Is it height? The tall Upper Midwest stereotype is amusing, but it is not a clean city-level explanation. Long legs do not build protected networks.",
       "The better clue is the network. Minneapolis says it has 89 miles of trails, 36 miles of curb-protected bikeways and paths, and over 140 miles of painted bike lanes. That means many rides are not one heroic dash through traffic. They are connected pieces.",
-      "Milwaukee is not doing nothing. The city says it has over 160 miles of bike lanes, including protected lanes, buffered lanes, and bike boulevards. It has also pushed toward a 50-mile protected bikeway goal by 2026. PeopleForBikes gives Milwaukee a strong 2026 city rating of 57. Minneapolis still scores higher at 68.",
-      "So the mystery is not Minneapolis good, Milwaukee bad. It is time, connection, safety, and habit. A bike network is also a trust network. If enough routes connect, if drivers expect bikes, if crossings feel safe, if winter maintenance works, then biking becomes less like a special announcement and more like putting on shoes.",
-      "The best explanation so far is path dependence. That means early choices make later choices easier. The city that practices a habit longer often makes that habit feel normal sooner.",
-      "The reusable question is: when two places look alike today, what has one of them been practicing longer?"
+      "Milwaukee is not doing nothing. The city says it has over 160 miles of bike lanes, including protected lanes, buffered lanes, and bike boulevards. It has also pushed toward a 50-mile protected bikeway goal by 2026. PeopleForBikes gives Milwaukee a strong 2026 city rating of 57. Minneapolis still scores higher at 68, but that is not an enormous canyon.",
+      "So the mature conclusion is humble. Minneapolis probably has an edge in time, connection, safety, and habit. A bike network is also a trust network. If enough routes connect, if drivers expect bikes, if crossings feel safe, if winter maintenance works, then biking becomes less like a special announcement and more like putting on shoes.",
+      "But this is not a trick deck where every comparison ends with a blazing headline. Sometimes the honest finding is: there is a pattern, it is worth watching, and the evidence points toward a likely explanation, but the story is still developing.",
+      "The reusable question is: when two places look alike today, are we seeing a strong divergence, a modest signal, or just a question that needs better data?"
     ],
     "dialogueSegments": [
       {
@@ -1302,7 +1302,18 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Yes, Paxten. Not everybody bikes to work, so we should not pretend this number measures every bike trip. But as a signal, the gap says: investigate me."
+        "text": "Yes, Paxten. But pause. In absolute terms, both numbers are small. Not everybody bikes to work, so we should not pretend this number measures every bike trip. This is a real signal, not a thunderclap."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So we do not get to shout case closed and slam a folder on the desk.",
+        "audioText": "[firmly] So we do not get to shout case closed and slam a folder on the desk."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly, Audrey. Sometimes the smartest move is to lower the drama and keep the question."
       },
       {
         "role": "audrey",
@@ -1381,9 +1392,20 @@
         "text": "Exactly. PeopleForBikes gives Milwaukee a strong twenty-twenty-six city rating of fifty-seven. Minneapolis still scores higher at sixty-eight."
       },
       {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That is a difference, but not an enormous canyon.",
+        "audioText": "[measured] That is a difference, but not an enormous canyon."
+      },
+      {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "So the mystery is not Minneapolis good, Milwaukee bad. It is time, connection, safety, and habit."
+        "text": "Right. So the mature conclusion is humble."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Minneapolis probably has an edge in time, connection, safety, and habit. But this is not Minneapolis good, Milwaukee bad."
       },
       {
         "role": "narrator",
@@ -1399,7 +1421,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Yes. The grown-up phrase is path dependence."
+        "text": "Yes. The grown-up phrase is path dependence. But use it carefully."
       },
       {
         "role": "paxten",
@@ -1415,7 +1437,12 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "And that gives us the reusable question: when two places look alike today, what has one of them been practicing longer?"
+        "text": "And this mystery teaches another skill too. Not every comparison gives us a giant headline. Sometimes the honest finding is: there is a pattern, it is worth watching, and the story is still developing."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "So the reusable question is: are we seeing a strong divergence, a modest signal, or just a question that needs better data?"
       }
     ],
     "sources": [
