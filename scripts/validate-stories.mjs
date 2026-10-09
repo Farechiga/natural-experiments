@@ -7,10 +7,11 @@ const collections = [
     required: ["id", "title", "author", "focus", "audioSrc"]
   },
   {
-    name: "natural experiments",
-    singularName: "natural experiment",
+    name: "comparative mysteries",
+    singularName: "comparative mystery",
     url: new URL("../data/natural-experiments.json", import.meta.url),
-    required: ["id", "title", "author", "focus", "audioSrc", "framing"]
+    required: ["id", "title", "author", "focus", "audioSrc", "framing"],
+    validate: validateComparativeMystery
   }
 ];
 
@@ -46,8 +47,8 @@ for (const collection of collections) {
       throw new Error(`${collection.name} item ${item.id} must point to an audio/*.mp3 file.`);
     }
 
-    if (collection.name === "natural experiments") {
-      validateNaturalExperiment(item);
+    if (collection.validate) {
+      collection.validate(item);
     }
 
     localIds.add(item.id);
@@ -59,39 +60,39 @@ for (const collection of collections) {
 
 console.log(`Validated ${counts.join(" and ")}.`);
 
-function validateNaturalExperiment(item) {
+function validateComparativeMystery(item) {
   if (!Array.isArray(item.comparisonPoints) || item.comparisonPoints.length < 2) {
-    throw new Error(`Natural experiment ${item.id} must include at least two comparisonPoints.`);
+    throw new Error(`Comparative mystery ${item.id} must include at least two comparisonPoints.`);
   }
 
   for (const point of item.comparisonPoints) {
     if (!point.label || !point.detail) {
-      throw new Error(`Natural experiment ${item.id} has an invalid comparison point.`);
+      throw new Error(`Comparative mystery ${item.id} has an invalid comparison point.`);
     }
   }
 
   if (!item.reveal || !item.reveal.label || !item.reveal.detail) {
-    throw new Error(`Natural experiment ${item.id} must include a reveal.`);
+    throw new Error(`Comparative mystery ${item.id} must include a reveal.`);
   }
 
   if (!Array.isArray(item.sources) || item.sources.length === 0) {
-    throw new Error(`Natural experiment ${item.id} must include sources.`);
+    throw new Error(`Comparative mystery ${item.id} must include sources.`);
   }
 
   for (const source of item.sources) {
     if (!source.label || !source.url || !source.note) {
-      throw new Error(`Natural experiment ${item.id} has an invalid source.`);
+      throw new Error(`Comparative mystery ${item.id} has an invalid source.`);
     }
   }
 
   if (item.dialogueSegments !== undefined) {
     if (!Array.isArray(item.dialogueSegments) || item.dialogueSegments.length === 0) {
-      throw new Error(`Natural experiment ${item.id} has invalid dialogueSegments.`);
+      throw new Error(`Comparative mystery ${item.id} has invalid dialogueSegments.`);
     }
 
     for (const segment of item.dialogueSegments) {
       if (!segment.role || !segment.speaker || !segment.text) {
-        throw new Error(`Natural experiment ${item.id} has an invalid dialogue segment.`);
+        throw new Error(`Comparative mystery ${item.id} has an invalid dialogue segment.`);
       }
     }
   }

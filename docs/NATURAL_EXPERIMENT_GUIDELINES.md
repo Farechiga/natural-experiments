@@ -1,48 +1,88 @@
-# Natural Experiment Guidelines
+# Comparative Mystery Guidelines
 
 ## Core Promise
 
 Make a comparison feel like a mystery a kid would want to solve.
 
+The public lane is called Comparative Mysteries. The internal data path is still
+`data/natural-experiments.json` so existing links, scripts, and audio paths keep
+working.
+
 The pattern is:
 
-1. Two things look meaningfully alike.
-2. One important outcome turns out very different.
+1. Something looks meaningfully comparable, or one case defies the pattern.
+2. One important outcome turns out surprisingly different.
 3. Easy explanations are tested and narrowed.
-4. Better clues reveal the old doors, rules, and habits underneath.
+4. Better clues reveal old choices, hidden variables, incentives, and habits.
 5. The ending leaves the listener with a reusable way to ask why.
+
+## Comparison Shapes
+
+A comparative mystery can use any of these shapes:
+
+- Natural or quasi-experiment: an outside rule or event creates unusually clean comparison groups.
+- Most-similar systems comparison: cases match on many dimensions but differ on the outcome.
+- Divergence study: cases start similarly, then travel different paths.
+- Boundary comparison: neighboring places face different rules.
+- Counterintuitive comparison: the obvious predictor points one way, but reality goes another.
+- Base-rate mystery: one selected group looks very different from the wider population.
+- Everyday measurement puzzle: a small daily comparison teaches proxies, noise, and hidden variables.
+
+## Investigation Prompts
+
+Use child-facing labels while quietly preserving the analytical ideas underneath:
+
+- The Mystery: the research question.
+- What Would We Expect?: the baseline or common guess.
+- Compared With: the reference class or matched cases.
+- What Looks Similar?: controls and matching variables.
+- What's Different?: possible explanatory variables.
+- The Surprise: the outcome variable.
+- Our Suspects: rival hypotheses.
+- Sneaky Variables: confounders, selection effects, and measurement problems.
+- Which Came First?: timing and sequence.
+- Check the Evidence: data quality, sample size, base rates, and sources.
+- How Could It Work?: the causal mechanism.
+- Best Explanation So Far: inference with honest uncertainty.
+- What Would Change Our Minds?: the next test.
 
 ## Opening Shape
 
-Begin with the comparison, not the explanation.
+Begin with the puzzle, not the lecture.
 
-Name the two cases quickly:
+For paired cases:
 
-> Japan and South Korea sit close together on the map. Both are wealthy,
-> high-tech democracies with deep ties to the United States.
+> Minneapolis and Milwaukee are cold Upper Midwest cities with lakes, snow,
+> Germanic roots, industrial histories, and a friendly little rivalry.
+
+For a single surprising pattern:
+
+> Elite hockey players are not born evenly across the calendar. A strange
+> number of them arrive early in the eligibility year.
 
 Then give two or three concrete comparability facts. Use sourced facts whenever
 possible:
 
 - geography or shared region
+- similar scale or role
 - similar economic development
-- similar technology or education indicators
-- similar postwar alliance structure
+- similar rules, deadlines, or starting conditions
+- similar climate, technology, education, or infrastructure
 - shared cultural inheritance, when true
 
-Do not overclaim similarity. If one country is much larger, older, poorer,
-younger, or structured differently, say that plainly.
+Do not overclaim similarity. If one case is larger, richer, older, denser, or
+structured differently, say that plainly.
 
 ## The Reveal
 
 The reveal is the first big turn.
 
-Use one clear number pair when possible:
+Use one clear number pair or contrast when possible:
 
-> Pew Research Center found that 32% of South Korean adults identify as
-> Christian. In Japan, the number was 2%.
+> The Census Bureau's five-year ACS estimates put bicycle commuting at about
+> 2 percent in Minneapolis and about half a percent in Milwaukee.
 
-This should feel like the moment the listener says, wait, why?
+This should feel like the moment the listener says: wait, why?
 
 ## False Suspects
 
@@ -50,16 +90,21 @@ List two or three tempting explanations, then show why they are incomplete.
 
 Good false suspects:
 
-- geography alone
+- weather alone
 - wealth alone
-- climate alone
-- national personality
+- geography alone
 - one famous leader
-- U.S. influence alone
-- "culture" as a vague catch-all
+- national personality
+- culture as a vague catch-all
+- technology by itself
+- the first number that happens to be visible
 
 The goal is not to mock the guesses. The goal is to teach better causal
-thinking.
+thinking. A funny suspect is welcome if it is handled cleanly:
+
+> We can inspect the tall-Midwestern-leg theory and then set it aside. Height is
+> not a clean city-level measure here, and long legs do not build protected bike
+> lanes.
 
 ## Grounded Clues
 
@@ -68,36 +113,39 @@ translate it immediately for a bright third grader.
 
 Good:
 
-> The Tokugawa shogunate was the warrior government that ran Japan for more
-> than two hundred years. A shogun was like the top military boss.
+> A feedback loop is a habit that starts feeding itself. More safe routes bring
+> more ordinary riders. More ordinary riders make bike projects feel less odd.
 
 Less good:
 
-> Under Tokugawa rule, Christianity became institutionally marginal.
+> Multimodal normalization emerges from recursive infrastructural reinforcement.
 
 Look for:
 
 - timing
+- rules
 - institutions
-- laws
-- schools
-- trade routes
-- state power
+- infrastructure
+- maps and networks
+- incentives
 - social status
-- repression
-- local leadership
+- safety
+- maintenance
+- money
+- measurement error
 - feedback loops
 - moments when one choice made the next choice easier
 
 Keep adult concepts in the background until the pattern is clear. You can name
-them at the end only if the listener has already felt the pattern:
+them near the end only if the listener has already felt the pattern:
 
 - path dependence
 - lock-in
 - incentives
-- institutions
-- social structure
-- contingency
+- selection effects
+- base rates
+- omitted variables
+- causal mechanism
 
 ## Script Shape
 
@@ -109,13 +157,13 @@ Use this structure:
 2. Comparability facts: 2-4 sourced facts.
 3. Reveal: 1 sharp number pair or contrast.
 4. False suspects: 2-3 tempting explanations that do not fully work.
-5. Better clues: 3-5 grounded historical or structural factors.
-6. Pattern name: what doors opened, what doors locked, and what habits stuck?
+5. Better clues: 3-5 grounded historical, structural, or data clues.
+6. Pattern name: what opened, what locked in, what habit grew?
 7. Final question: something reusable, not just this case.
 
 ## Kid Voice and Pauses
 
-Natural experiments can include two recurring kid interlocutors. They are not
+Comparative mysteries can include two recurring kid interlocutors. They are not
 there to be cute filler. They make the thinking audible.
 
 Audrey is crisp, incredulous, and systems-minded. She is a little prim, a little
@@ -123,8 +171,8 @@ combative, and very interested in whether the explanation actually works.
 
 - "Wait. What does that mean?"
 - "So money and phones do not solve the mystery."
-- "The Toku-what-now?"
 - "That is not a tiny difference."
+- "I am arranging the evidence in a neat pile."
 
 Paxten is softer, more open, and more contemplative. She adds space and wonder:
 
@@ -138,13 +186,14 @@ Use the kid voice to:
 - slow down dense passages
 - restate the hard point in plain words
 - ask the obvious question
+- challenge weak comparisons
 - add a little silliness without breaking the investigation
 
 When a big question lands, give it air.
 
 Good:
 
-> Wait. Thirty-two and two?
+> Wait. Two percent and half a percent?
 >
 > Yes. Hmm. Interesting.
 
@@ -162,7 +211,7 @@ Use a streamlined Radiolab-like feel:
 - concrete
 - lightly suspenseful
 
-Avoid jargon-babble.
+Avoid jargon-babble and painful college essay endings.
 
 Good:
 
@@ -171,28 +220,26 @@ Good:
 
 Less good:
 
-> Divergent institutional matrices mediated confessional uptake across
-> post-imperial civic formations.
+> Divergent institutional matrices mediated behavioral uptake across
+> post-industrial civic formations.
 
-Also avoid vague college essay endings.
+Good ending:
 
-Good:
+> When two places look alike today, what old habit has one of them been
+> practicing longer?
 
-> When two places look alike today, what old doors were opened in one place and
-> locked in the other?
+Less good ending:
 
-Less good:
-
-> What historical machine was each country sitting inside?
+> What historical machine was each city sitting inside?
 
 ## Source Rules
 
-Every natural experiment should include repository-level sources in
+Every comparative mystery should include repository-level sources in
 `data/natural-experiments.json`.
 
 Prefer:
 
-- `.gov` for official diplomatic, historical, census, or agency facts
+- `.gov` for official diplomatic, historical, census, climate, or agency facts
 - `.edu` for university scholarship
 - `.org` for reputable research centers, museums, libraries, and educational
   organizations
@@ -200,9 +247,9 @@ Prefer:
 
 In the script, attribute the key numbers in plain language:
 
-> According to the World Bank...
+> According to the Census Bureau...
 
-> Pew Research Center's 2023 survey found...
+> PeopleForBikes' 2026 City Ratings...
 
 Sources should support the comparison and the explanation. They should not sit
 there decoratively.
@@ -213,7 +260,7 @@ Each item in `data/natural-experiments.json` should include:
 
 - `id`: short machine-readable name
 - `title`: question-style title
-- `author`: usually `Natural experiment`
+- `author`: usually `Comparative mystery`
 - `lengthLabel`: usually `investigation`
 - `focus`: one-line teaser
 - `framing`: the comparison in one sentence
@@ -239,7 +286,7 @@ Each dialogue segment should include:
 3. Generate audio with:
 
 ```bash
-npm run audio:korea-japan-christianity
+npm run audio:minneapolis-milwaukee-biking
 ```
 
 For a new item, add a matching package script or use:

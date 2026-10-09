@@ -3,13 +3,13 @@ const collectionConfig = {
     path: "data/stories.json",
     label: "Story",
     title: "Stories and questions, introduced aloud.",
-    subtitle: "Choose a creative-work introduction or a natural-experiment mystery."
+    subtitle: "Choose a creative-work introduction or a comparative mystery."
   },
   "natural-experiments": {
     path: "data/natural-experiments.json",
-    label: "Question",
-    title: "Natural experiments, investigated aloud.",
-    subtitle: "Start with two things that look alike, then follow the surprising difference."
+    label: "Mystery",
+    title: "Comparative mysteries, investigated aloud.",
+    subtitle: "Compare what looks similar, then follow the surprising difference."
   }
 };
 

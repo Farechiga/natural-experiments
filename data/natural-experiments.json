@@ -1194,5 +1194,276 @@
         "note": "Used for Gutenberg-era European movable type in Mainz, the metal-letter workflow, faster page production, and the spread of knowledge through print."
       }
     ]
+  },
+  {
+    "id": "minneapolis-milwaukee-biking",
+    "title": "Why Does Minneapolis Bike More Than Milwaukee?",
+    "author": "Comparative mystery",
+    "lengthLabel": "investigation",
+    "focus": "Two cold Upper Midwest rivals look bike-ready on paper, but one has made biking feel much more ordinary.",
+    "framing": "Minneapolis and Milwaukee are cold Upper Midwest cities with lakes, rivers, industrial legacies, northern European roots, and a friendly rivalry. So why does Minneapolis show a stronger biking habit?",
+    "comparisonPoints": [
+      {
+        "label": "Cold-city cousins",
+        "detail": "NOAA and state climate normals put annual snowfall near four feet in both places: about 51.2 inches for Minneapolis and 48.7 inches for Milwaukee."
+      },
+      {
+        "label": "Northern European roots",
+        "detail": "ACS ancestry estimates show strong German and northern European signals in Minneapolis, and deep German and Polish roots in Milwaukee. The overlap is real, but the mixes are not identical."
+      },
+      {
+        "label": "Both have bike infrastructure",
+        "detail": "Minneapolis reports 89 miles of trails, 36 miles of curb-protected bikeways and paths, and over 140 miles of painted bike lanes. Milwaukee reports over 160 miles of bike lanes and several paved trails."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "The Census Bureau's 2024 ACS five-year estimates put bicycle commuting at about 2.0% of Minneapolis workers and about 0.5% of Milwaukee workers."
+    },
+    "audioSrc": "audio/natural-experiments/minneapolis-milwaukee-biking.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery. Minneapolis and Milwaukee are the kind of cities that can start an argument with a single sentence. Which one is colder? Which one has better lakes? Which one gets to brag harder about biking?",
+      "They make a surprisingly fair comparison. Both sit in the Upper Midwest. Both have real winter. Both grew with industry, rivers, lake water, immigrant neighborhoods, universities, and a lot of Germanic or northern European family history.",
+      "And the snow does not rescue us. NOAA climate normals put Milwaukee's annual snowfall at about 48.7 inches. Minnesota climate normals put Minneapolis at about 51.2. That is close enough that winter cannot be the whole answer.",
+      "Now the reveal. The Census Bureau's 2024 ACS five-year estimates put bicycle commuting at about 2.0 percent of Minneapolis workers and about 0.5 percent of Milwaukee workers. That is roughly four times as high in Minneapolis.",
+      "So we test suspects. Is Minneapolis just braver in snow pants? Funny, but no. Is it ancestry? Minneapolis has German, Norwegian, and Swedish roots. Milwaukee has deep German and Polish roots. Culture may shape politics and habits, but ancestry does not paint bike lanes. Is it height? The tall Upper Midwest stereotype is amusing, but it is not a clean city-level explanation. Long legs do not build protected networks.",
+      "The better clue is the network. Minneapolis says it has 89 miles of trails, 36 miles of curb-protected bikeways and paths, and over 140 miles of painted bike lanes. That means many rides are not one heroic dash through traffic. They are connected pieces.",
+      "Milwaukee is not doing nothing. The city says it has over 160 miles of bike lanes, including protected lanes, buffered lanes, and bike boulevards. It has also pushed toward a 50-mile protected bikeway goal by 2026. PeopleForBikes gives Milwaukee a strong 2026 city rating of 57. Minneapolis still scores higher at 68.",
+      "So the mystery is not Minneapolis good, Milwaukee bad. It is time, connection, safety, and habit. A bike network is also a trust network. If enough routes connect, if drivers expect bikes, if crossings feel safe, if winter maintenance works, then biking becomes less like a special announcement and more like putting on shoes.",
+      "The best explanation so far is path dependence. That means early choices make later choices easier. The city that practices a habit longer often makes that habit feel normal sooner.",
+      "The reusable question is: when two places look alike today, what has one of them been practicing longer?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Minneapolis and Milwaukee are the kind of cities that can start an argument with a single sentence. Which one is colder? Which one has better lakes? Which one gets to brag harder about biking?"
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Ah. A home rivalry. Excellent. I shall keep score neatly.",
+        "audioText": "[prim, delighted] Ah. A home rivalry. Excellent. I shall keep score neatly."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Good, Audrey. But first we ask whether the comparison is fair."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Both cities sit in the Upper Midwest. Both have real winter. Both grew with industry, rivers, lake water, immigrant neighborhoods, universities, and a lot of Germanic or northern European family history."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So not palm trees versus snow boots.",
+        "audioText": "[softly amused] So not palm trees versus snow boots."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly, Paxten. These are cousins in the weather family."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "NOAA climate normals put Milwaukee's annual snowfall at about forty-eight point seven inches. Minnesota climate normals put Minneapolis at about fifty-one point two inches."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That is close enough that winter cannot simply stomp in and declare itself the answer.",
+        "audioText": "[decisive] That is close enough that winter cannot simply stomp in and declare itself the answer."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. Now the reveal."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The Census Bureau's twenty-twenty-four ACS five-year estimates put bicycle commuting at about two percent of Minneapolis workers and about half a percent of Milwaukee workers."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Wait. That is about four times as high.",
+        "audioText": "[surprised, thoughtful] Wait. That is about four times as high."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. Not everybody bikes to work, so we should not pretend this number measures every bike trip. But as a signal, the gap says: investigate me."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "I propose the first suspect: Minneapolitans are simply more heroic in snow pants.",
+        "audioText": "[dryly] I propose the first suspect: Minneapolitans are simply more heroic in snow pants."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A bold theory. Rejected."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Then culture? Ancestry? Some secret northern European bicycle spell?",
+        "audioText": "[skeptical] Then culture? Ancestry? Some secret northern European bicycle spell?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Worth inspecting, Audrey. Minneapolis has German, Norwegian, and Swedish roots. Milwaukee has deep German and Polish roots. Culture can shape politics and habits, but ancestry does not paint bike lanes."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "What about the tall Midwestern person theory?",
+        "audioText": "[gently teasing] What about the tall Midwestern person theory?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "We can inspect it and set it aside. Height is not a clean city-level measure here, and long legs do not build protected networks."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Noted. Legs are not infrastructure.",
+        "audioText": "[precise] Noted. Legs are not infrastructure."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Now the better clue: the network."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Minneapolis says it has eighty-nine miles of trails, thirty-six miles of curb-protected bikeways and paths, and over one hundred forty miles of painted bike lanes."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "A network. Like if one sentence connects to the next, you get a story. If one bike lane stops at a terrifying road, you get a problem.",
+        "audioText": "[engaged, quick] A network. Like if one sentence connects to the next, you get a story. If one bike lane stops at a terrifying road, you get a problem."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Audrey."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Milwaukee is not doing nothing. The city says it has over one hundred sixty miles of bike lanes, including protected lanes, buffered lanes, and bike boulevards. It has also pushed toward a fifty-mile protected bikeway goal by twenty-twenty-six."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So Milwaukee might be in the chapter where the habit is being built.",
+        "audioText": "[warmly] So Milwaukee might be in the chapter where the habit is being built."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. PeopleForBikes gives Milwaukee a strong twenty-twenty-six city rating of fifty-seven. Minneapolis still scores higher at sixty-eight."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "So the mystery is not Minneapolis good, Milwaukee bad. It is time, connection, safety, and habit."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A bike network is also a trust network. If enough routes connect, if drivers expect bikes, if crossings feel safe, if winter maintenance works, then biking becomes less like a special announcement and more like putting on shoes."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the clue is not just whether a place owns bicycles. It is whether ordinary trips feel possible.",
+        "audioText": "[clear and satisfied] So the clue is not just whether a place owns bicycles. It is whether ordinary trips feel possible."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. The grown-up phrase is path dependence."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That means the city that practices a habit longer can make the habit feel normal sooner.",
+        "audioText": "[softly, discovering] That means the city that practices a habit longer can make the habit feel normal sooner."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "And that gives us the reusable question: when two places look alike today, what has one of them been practicing longer?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "U.S. Census Bureau, Minneapolis 2024 ACS 5-year tables B08301 and B04006",
+        "url": "https://api.census.gov/data/2024/acs/acs5?get=NAME,B08301_001E,B08301_018E,B08301_003E,B08301_010E,B08301_019E,B08301_021E,B04006_001E,B04006_042E,B04006_059E,B04006_089E,B04006_061E&for=place:43000&in=state:27",
+        "note": "Used to calculate Minneapolis bicycle commuters as a share of workers and to ground the ancestry discussion."
+      },
+      {
+        "label": "U.S. Census Bureau, Milwaukee 2024 ACS 5-year tables B08301 and B04006",
+        "url": "https://api.census.gov/data/2024/acs/acs5?get=NAME,B08301_001E,B08301_018E,B08301_003E,B08301_010E,B08301_019E,B08301_021E,B04006_001E,B04006_042E,B04006_059E,B04006_089E,B04006_061E&for=place:53000&in=state:55",
+        "note": "Used to calculate Milwaukee bicycle commuters as a share of workers and to ground the ancestry discussion."
+      },
+      {
+        "label": "City of Minneapolis, Bicycling",
+        "url": "https://www.minneapolismn.gov/getting-around/bicycling/",
+        "note": "Used for Minneapolis trail, curb-protected bikeway, path, and painted bike lane mileage."
+      },
+      {
+        "label": "City of Milwaukee, Bike Resources",
+        "url": "https://city.milwaukee.gov/dpw/infrastructure/resources/bike-resources",
+        "note": "Used for Milwaukee's bike lane and trail network description."
+      },
+      {
+        "label": "City of Milwaukee, Bikeways",
+        "url": "https://city.milwaukee.gov/dpw/Infrastructure/Programs/Bikeways",
+        "note": "Used for Milwaukee's commitment to 50 miles of protected bikeways under construction or in development by 2026."
+      },
+      {
+        "label": "PeopleForBikes, Minneapolis City Rating",
+        "url": "https://cityratings.peopleforbikes.org/cities/minneapolis-mn",
+        "note": "Used for Minneapolis' 2026 city rating and network score context."
+      },
+      {
+        "label": "PeopleForBikes, Milwaukee City Rating",
+        "url": "https://cityratings.peopleforbikes.org/cities/milwaukee-wi",
+        "note": "Used for Milwaukee's 2026 city rating and network score context."
+      },
+      {
+        "label": "National Weather Service Milwaukee/Sullivan, Snow Climatology",
+        "url": "https://www.weather.gov/mkx/Climate_Snow",
+        "note": "Used for Milwaukee's 1991-2020 normal annual snowfall of 48.7 inches."
+      },
+      {
+        "label": "Minnesota DNR, Minneapolis 1991-2020 Climate Normals",
+        "url": "https://files.dnr.state.mn.us/natural_resources/climate/twin_cities/msp_normals_means_extremes_page3.pdf",
+        "note": "Used for Minneapolis' 1991-2020 normal annual snowfall of 51.2 inches."
+      }
+    ]
   }
 ]
