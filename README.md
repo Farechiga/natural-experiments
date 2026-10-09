@@ -21,6 +21,7 @@ secrets.
 - E. L. Konigsburg, `From the Mixed-Up Files of Mrs. Basil E. Frankweiler`
 - Erin Hunter, `Warriors: Into the Wild`
 - Rick Riordan, `Percy Jackson and the Olympians: The Lightning Thief`
+- Laura Ingalls Wilder, `Farmer Boy`
 
 ## Comparative Mysteries Included
 
@@ -52,6 +53,7 @@ The web player expects:
 - `audio/mixed-up-files-frankweiler.mp3`
 - `audio/warriors-into-the-wild.mp3`
 - `audio/percy-jackson-lightning-thief.mp3`
+- `audio/farmer-boy.mp3`
 - `audio/natural-experiments/korea-japan-christianity.mp3`
 - `audio/natural-experiments/new-york-los-angeles-transit-cars.mp3`
 - `audio/natural-experiments/athens-sparta-societies.mp3`

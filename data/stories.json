@@ -1408,5 +1408,185 @@
         "note": "Used for publisher context and series identification."
       }
     ]
+  },
+  {
+    "id": "farmer-boy",
+    "title": "Farmer Boy",
+    "author": "Laura Ingalls Wilder",
+    "lengthLabel": "dialogue intro",
+    "focus": "Nine-year-old Almanzo Wilder wants horses, food, freedom, and proof that he is ready for the work he longs to be trusted with.",
+    "audioSrc": "audio/farmer-boy.mp3",
+    "scriptParagraphs": [
+      "Farmer Boy does something surprising. It leaves Laura Ingalls behind for a while and follows Almanzo Wilder, a nine-year-old boy growing up on a big farm in northern New York.",
+      "Almanzo's world is full of good things: barns, horses, pancakes, apples, sleds, fields, and dinners so enormous they almost become characters of their own.",
+      "But this is not a vacation farm. The Wilder farm runs on work. Cows must be milked. Ice must be cut. Potatoes must be planted. Sheep must be sheared. Calves must be broken. And Almanzo is expected to learn how to do his share.",
+      "What he wants most is not only food, though he wants plenty of that. He wants horses. He wants to be trusted with them. He wants to be seen as someone careful enough, strong enough, and steady enough for a responsibility that still feels just out of reach.",
+      "That is where the story gets interesting. Almanzo is not trying to escape childhood by becoming fancy or famous. He is trying to grow into a kind of usefulness that matters in his world.",
+      "His father is not easily impressed. His mother keeps the household moving with skill and force. His siblings are older, sharper, and often ahead of him. Almanzo is the youngest boy, and being youngest means wanting the world to notice you are catching up.",
+      "Farmer Boy asks a quiet, sturdy question: what does it mean for a child to want responsibility before adults are sure he is ready?",
+      "And underneath the butter, barns, and pies, there is another question: will Almanzo inherit farm life as a cage, or choose it as the work that makes him feel most alive?",
+      "The story's pull is not danger in the usual sense. It is the suspense of growing. Can a boy prove that his wanting is not just wanting, but readiness?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Farmer Boy does something surprising. It leaves Laura Ingalls behind for a while and follows Almanzo Wilder, a nine-year-old boy growing up on a big farm in northern New York."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Wait. A Little House book without Laura? That is a bold scheduling decision.",
+        "audioText": "[crisp, intrigued] Wait. A Little House book without Laura? That is a bold scheduling decision."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It is, Audrey. But Almanzo matters. One day he will become Laura's husband. First, though, he is simply a boy in a world of barns, fields, horses, food, and work."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That already feels different. Less covered wagon, more winter kitchen and stable door.",
+        "audioText": "[softly] That already feels different. Less covered wagon, more winter kitchen and stable door."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly, Paxten. Almanzo's world is full of good things: pancakes, apples, sleds, polished harness, warm barns, and dinners so enormous they almost become characters of their own."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "I have heard reports of this book's food. Considerable food. Nearly suspicious amounts of food.",
+        "audioText": "[prim, amused] I have heard reports of this book's food. Considerable food. Nearly suspicious amounts of food."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "True. But the food is not just decoration. It shows abundance, order, labor, and appetite. On this farm, comfort has a whole day of work behind it."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So every pie has weather and chores hiding inside it.",
+        "audioText": "[thoughtfully] So every pie has weather and chores hiding inside it."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. The Wilder farm runs on work. Cows must be milked. Ice must be cut. Potatoes must be planted. Sheep must be sheared. Calves must be broken. And Almanzo is expected to learn how to do his share."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "He is nine. How many departments is this child assigned to?",
+        "audioText": "[incredulous] He is nine. How many departments is this child assigned to?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A great many. But Almanzo is not only burdened by the work. He is drawn to it, especially when horses are involved."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Oh. He loves them.",
+        "audioText": "[warmly] Oh. He loves them."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Deeply. What Almanzo wants most is not only food, though he wants plenty of that. He wants horses. He wants to be trusted with them. He wants to be seen as careful enough, strong enough, and steady enough for a responsibility that still feels just out of reach."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the real prize is not a horse. It is trust.",
+        "audioText": "[precise] So the real prize is not a horse. It is trust."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Audrey. That is where the story gets interesting. Almanzo is not trying to become famous or escape into glamour. He is trying to grow into a kind of usefulness that matters in his world."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That sounds plain, but not small.",
+        "audioText": "[quietly] That sounds plain, but not small."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Not small at all. His father is not easily impressed. His mother keeps the household moving with skill and force. His siblings are older, sharper, and often ahead of him."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Being youngest is an entire political situation.",
+        "audioText": "[knowingly] Being youngest is an entire political situation."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. Being youngest means wanting the world to notice you are catching up."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "And maybe wanting adults to see the person you are becoming before they quite believe it.",
+        "audioText": "[softly] And maybe wanting adults to see the person you are becoming before they quite believe it."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put. Farmer Boy asks a quiet, sturdy question: what does it mean for a child to want responsibility before adults are sure he is ready?"
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That is much more interesting than merely, old farms had chores.",
+        "audioText": "[firmly] That is much more interesting than merely, old farms had chores."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Much more. And underneath the butter, barns, and pies, there is another question: will Almanzo inherit farm life as a cage, or choose it as the work that makes him feel most alive?"
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the suspense is growing up.",
+        "audioText": "[hushed, pleased] So the suspense is growing up."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. Can a boy prove that his wanting is not just wanting, but readiness?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Little House on the Prairie, Farmer Boy",
+        "url": "https://littlehouseontheprairie.com/farmer-boy/",
+        "note": "Used for the publisher-style premise: Almanzo living on a big farm in New York State, wanting his own horse, and proving readiness for responsibility."
+      },
+      {
+        "label": "Almanzo Wilder Farm, About",
+        "url": "https://www.almanzowilderfarm.com/about",
+        "note": "Used for the historical connection between Farmer Boy and Almanzo Wilder's boyhood home and recollections."
+      },
+      {
+        "label": "Library of America, The Little House Books Volume 1",
+        "url": "https://www.loa.org/books/367-the-little-house-books-volume-1/",
+        "note": "Used for series context and the framing of Farmer Boy as Almanzo learning his father's way of life on an upstate New York farm."
+      },
+      {
+        "label": "HarperCollins teaching guide, Farmer Boy",
+        "url": "https://b0f646cfbd7462424f7a-f9758a43fb7c33cc8adda0fd36101899.ssl.cf2.rackcdn.com/teaching-guides/TG-9780060264505.pdf",
+        "note": "Used for classroom-guide plot details including Almanzo's farm tasks and his desire to prove he is mature enough to handle a colt."
+      }
+    ]
   }
 ]

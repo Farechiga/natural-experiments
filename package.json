@@ -17,6 +17,7 @@
     "audio:mixed-up-files": "node scripts/generate-audio.mjs --story mixed-up-files-frankweiler",
     "audio:warriors": "node scripts/generate-audio.mjs --story warriors-into-the-wild",
     "audio:percy": "node scripts/generate-audio.mjs --story percy-jackson-lightning-thief",
+    "audio:farmer-boy": "node scripts/generate-audio.mjs --story farmer-boy",
     "audio:natural:all": "node scripts/generate-audio.mjs --collection natural-experiments --story all",
     "audio:korea-japan-christianity": "node scripts/generate-audio.mjs --collection natural-experiments --story korea-japan-christianity",
     "audio:ny-la-transit-cars": "node scripts/generate-audio.mjs --collection natural-experiments --story new-york-los-angeles-transit-cars",
