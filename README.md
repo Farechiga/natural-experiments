@@ -30,6 +30,7 @@ secrets.
 - Athens and Sparta, `Why Did Athens and Sparta Become So Different?`
 - China and Europe, `Why Did Movable Type Explode in Europe After Starting Earlier in China?`
 - Minneapolis and Milwaukee, `Why Does Minneapolis Bike More Than Milwaukee?`
+- Elite sports roles, `Why Are Left-Handed Players Overrepresented in Some Elite Sports Roles?`
 
 ## Local Preview
 
@@ -59,6 +60,7 @@ The web player expects:
 - `audio/natural-experiments/athens-sparta-societies.mp3`
 - `audio/natural-experiments/china-europe-printing-press.mp3`
 - `audio/natural-experiments/minneapolis-milwaukee-biking.mp3`
+- `audio/natural-experiments/left-handed-elite-sports-roles.mp3`
 
 Until those files exist, the page still shows the scripts and will report that
 the selected recording has not been generated yet.

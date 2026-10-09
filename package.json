@@ -23,7 +23,8 @@
     "audio:ny-la-transit-cars": "node scripts/generate-audio.mjs --collection natural-experiments --story new-york-los-angeles-transit-cars",
     "audio:athens-sparta": "node scripts/generate-audio.mjs --collection natural-experiments --story athens-sparta-societies",
     "audio:china-europe-printing": "node scripts/generate-audio.mjs --collection natural-experiments --story china-europe-printing-press",
-    "audio:minneapolis-milwaukee-biking": "node scripts/generate-audio.mjs --collection natural-experiments --story minneapolis-milwaukee-biking"
+    "audio:minneapolis-milwaukee-biking": "node scripts/generate-audio.mjs --collection natural-experiments --story minneapolis-milwaukee-biking",
+    "audio:left-handed-sports": "node scripts/generate-audio.mjs --collection natural-experiments --story left-handed-elite-sports-roles"
   },
   "engines": {
     "node": ">=20"

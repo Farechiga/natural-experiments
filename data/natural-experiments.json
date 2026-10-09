@@ -1492,5 +1492,237 @@
         "note": "Used for Minneapolis' 1991-2020 normal annual snowfall of 51.2 inches."
       }
     ]
+  },
+  {
+    "id": "left-handed-elite-sports-roles",
+    "title": "Why Are Left-Handed Players Overrepresented in Some Elite Sports Roles?",
+    "author": "Comparative mystery",
+    "lengthLabel": "investigation",
+    "focus": "Left-handers are about one in ten people, but in some fast opponent-facing sports they show up far more often.",
+    "framing": "If left-handedness is only about 10% of the population, why do some elite sports roles seem to make extra room for left-handed players?",
+    "comparisonPoints": [
+      {
+        "label": "The base rate",
+        "detail": "A 2020 meta-analysis in Psychological Bulletin estimated that about 10.6% of people are left-handed."
+      },
+      {
+        "label": "Not every sport",
+        "detail": "Research on elite interactive sports finds left-handers are overrepresented in some sports and roles, but not evenly across all sports."
+      },
+      {
+        "label": "The time-pressure clue",
+        "detail": "A 2017 study of elite interactive ball games found left-hander prevalence rose from 8.7% in lower time-pressure sports to 30.39% in higher time-pressure sports."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "In the fastest opponent-facing settings studied, left-handed players appeared at roughly three times the general population base rate."
+    },
+    "audioSrc": "audio/natural-experiments/left-handed-elite-sports-roles.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery. About one in ten people is left-handed. So if handedness did not matter, we might expect about one in ten elite players in a sport to be left-handed too.",
+      "But in some sports and some roles, left-handers show up more often than that: left-handed pitchers, southpaw boxers, left-handed table tennis players, and left-handed fencers.",
+      "The first rule is not to turn this into magic. Left-handed players do not automatically have a secret sports brain. We need a cleaner question: compared with what base rate, in which sport, in which role, and by what mechanism?",
+      "The base rate is our starting line. A large 2020 meta-analysis estimated that about 10.6 percent of people are left-handed. That means lefties are rare enough that most players spend most of their practice time against right-handed opponents.",
+      "Now the reveal. In a 2017 study of elite interactive ball games, Florian Loffing found that left-hander prevalence in elite rankings rose from 8.7 percent in lower time-pressure sports to 30.39 percent in higher time-pressure sports. The strongest overrepresentation appeared in baseball, cricket, and table tennis.",
+      "So we test the easy guesses. Is it because left-handers are simply better athletes? No. Is it because every sport rewards being left-handed? No. Is it just because coaches like rare players? Sometimes coaches may notice them, but that is not enough.",
+      "The stronger clue is practice. A left-handed player grows up facing right-handed opponents all the time. A right-handed player may face left-handed opponents much less often. So the lefty gets lots of practice against the common pattern, while the righty gets less practice against the rare pattern.",
+      "That matters most when time is short. In table tennis, a ball arrives fast. In fencing, the line of attack changes quickly. In boxing, a southpaw stance can make familiar defenses feel slightly wrong. In baseball, the handedness of pitcher and batter changes the matchup.",
+      "The grown-up phrase is frequency-dependent advantage. But keep it simple: the rare style can be useful because it is rare. If everyone practiced against left-handers all the time, the surprise would shrink.",
+      "The honest conclusion is specific. Left-handedness can help in some opponent-facing sports, especially when the action is fast and the angles are unusual. It is not a universal superpower.",
+      "The reusable question is: when a small group is overrepresented, are we seeing natural talent, a selection rule, a strategic role, or a rare pattern that opponents have not practiced enough?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "About one in ten people is left-handed. So if handedness did not matter, we might expect about one in ten elite players in a sport to be left-handed too."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "A base rate. Excellent. I do like starting with the denominator.",
+        "audioText": "[crisp, pleased] A base rate. Excellent. I do like starting with the denominator."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Good, Audrey. A large 2020 meta-analysis estimated that about ten point six percent of people are left-handed."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So about one left-handed person in a classroom of ten.",
+        "audioText": "[softly] So about one left-handed person in a classroom of ten."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right, Paxten. But in some elite sports roles, left-handers show up more often than that: left-handed pitchers, southpaw boxers, left-handed table tennis players, and left-handed fencers."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "I object in advance to any explanation involving a mysterious left-handed genius mist.",
+        "audioText": "[firmly] I object in advance to any explanation involving a mysterious left-handed genius mist."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Objection sustained. The first rule is not to turn this into magic. Left-handed players do not automatically have a secret sports brain."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "We need a cleaner question: compared with what base rate, in which sport, in which role, and by what mechanism?"
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That feels less flashy, but more trustworthy.",
+        "audioText": "[thoughtfully] That feels less flashy, but more trustworthy."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Now the reveal. In a twenty-seventeen study of elite interactive ball games, Florian Loffing found that left-hander prevalence in elite rankings rose from eight point seven percent in lower time-pressure sports to thirty point three nine percent in higher time-pressure sports."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Thirty percent? That is not a tiny wiggle. That is the number standing up and waving.",
+        "audioText": "[incredulous] Thirty percent? That is not a tiny wiggle. That is the number standing up and waving."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. The strongest overrepresentation appeared in baseball, cricket, and table tennis."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "But not everywhere.",
+        "audioText": "[gently] But not everywhere."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. That is the guardrail. Not everywhere."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So our suspects are: better athletes, coach preference, or something about the matchup itself.",
+        "audioText": "[orderly] So our suspects are: better athletes, coach preference, or something about the matchup itself."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. The first suspect fails. Left-handers are not simply better athletes. The second is incomplete. Coaches may notice rare players in certain roles, but that does not explain why the pattern is stronger when time pressure is high."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The stronger clue is practice."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A left-handed player grows up facing right-handed opponents all the time. A right-handed player may face left-handed opponents much less often."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the lefty has practiced against the common pattern, and the righty has not practiced as much against the rare pattern.",
+        "audioText": "[quickly, satisfied] So the lefty has practiced against the common pattern, and the righty has not practiced as much against the rare pattern."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly, Audrey. The weird part is not the left hand. It is the opponent's practice diet."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Like learning a dance where almost everyone starts on the right foot. Then someone starts on the left, and suddenly your body guesses wrong.",
+        "audioText": "[softly, picturing it] Like learning a dance where almost everyone starts on the right foot. Then someone starts on the left, and suddenly your body guesses wrong."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Beautifully put, Paxten. And that matters most when time is short."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "In table tennis, a ball arrives fast. In fencing, the line of attack changes quickly. In boxing, a southpaw stance can make familiar defenses feel slightly wrong. In baseball, the handedness of pitcher and batter changes the matchup."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So this is not left-handedness as a superpower. It is left-handedness as an uncommon test.",
+        "audioText": "[precise] So this is not left-handedness as a superpower. It is left-handedness as an uncommon test."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. The grown-up phrase is frequency-dependent advantage."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Meaning the rare style can be useful because it is rare.",
+        "audioText": "[thoughtfully] Meaning the rare style can be useful because it is rare."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. And if everyone practiced against left-handers all the time, the surprise would shrink."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Conclusion: specific, useful, not mystical.",
+        "audioText": "[decisive] Conclusion: specific, useful, not mystical."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. Left-handedness can help in some opponent-facing sports, especially when the action is fast and the angles are unusual. It is not a universal superpower."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The reusable question is: when a small group is overrepresented, are we seeing natural talent, a selection rule, a strategic role, or a rare pattern that opponents have not practiced enough?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "PubMed, Human handedness: A meta-analysis",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32237881/",
+        "note": "Used for the general population baseline estimate that about 10.6% of people are left-handed."
+      },
+      {
+        "label": "PubMed, Left-handedness and time pressure in elite interactive ball games",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29167349/",
+        "note": "Used for the 2017 finding that left-hander prevalence in elite rankings rose from 8.7% to 30.39% as time pressure increased, with distinct overrepresentation in baseball, cricket, and table tennis."
+      },
+      {
+        "label": "Frontiers, Handedness and Relative Age in International Elite Interactive Individual Sports Revisited",
+        "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2021.662203/full",
+        "note": "Used for the caveat that left-handers are overrepresented in some but not all elite interactive sports, especially foil, epee, and table tennis at the senior level."
+      },
+      {
+        "label": "PubMed, Handedness in fast ball sports",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2736342/",
+        "note": "Used for earlier research asking whether left-handers have an advantage in fast ball sports such as cricket and tennis."
+      }
+    ]
   }
 ]

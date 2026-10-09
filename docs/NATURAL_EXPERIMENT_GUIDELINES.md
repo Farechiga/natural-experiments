@@ -222,6 +222,30 @@ Use a streamlined Radiolab-like feel:
 
 Avoid jargon-babble and painful college essay endings.
 
+## Dilettante Filter
+
+Before saving a script, run a concrete-language pass. Any sentence that sounds
+like it could be pasted into a college essay without naming a person, object,
+number, rule, or action should be rewritten.
+
+Do not use foggy phrases such as:
+
+- lifting the veil
+- sitting inside a historical machine
+- the grammar of a society
+- a structure of feeling
+- pressure, when the script means a person, rule, deadline, or choice
+- the architecture of desire
+- X as Y, unless the comparison is plain enough for a child to picture
+
+Replace them with concrete language:
+
+- Who is acting?
+- What changes hands?
+- What number moved?
+- What rule, tool, map, habit, or object made the difference?
+- What would a kid actually see on the field, street, stage, or page?
+
 Good:
 
 > The answer is not one big switch. It is a bundle of smaller switches, flipped
