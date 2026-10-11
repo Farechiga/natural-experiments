@@ -2206,5 +2206,210 @@
         "note": "Used for comparative background on school uniform traditions, policy rationales, and the caution that evidence about uniform effects is mixed."
       }
     ]
+  },
+  {
+    "id": "childrens-books-international-covers",
+    "title": "Why Can the Same Children's Book Have Different Covers Around the World?",
+    "author": "Comparative mystery",
+    "lengthLabel": "investigation",
+    "focus": "The story can stay almost the same while the cover changes who the book seems to be for.",
+    "framing": "A children's book can keep the same characters, plot, and ending across countries, but appear with very different covers in the United States, Britain, France, Japan, or other markets. Why does the package change when the story is still the story?",
+    "comparisonPoints": [
+      {
+        "label": "Same story core",
+        "detail": "Translated editions often keep the central plot and characters while changing covers, titles, formats, illustrations, or other book-package details."
+      },
+      {
+        "label": "Same buying problem",
+        "detail": "Children's books usually have to appeal to children and to adult gatekeepers such as parents, teachers, librarians, booksellers, and reviewers."
+      },
+      {
+        "label": "Same shelf pressure",
+        "detail": "A cover has to work quickly in a bookstore, classroom, library, online listing, or gift-giving moment before the reader has opened the book."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "Translation studies have documented that children's books can change not only language but also cover images, titles, formats, volumes, and illustrations when they move into new markets."
+    },
+    "audioSrc": "audio/natural-experiments/childrens-books-international-covers.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery. Imagine the same children's book crossing a border. The hero is the same. The problem is the same. The ending is the same.",
+      "But the cover changes.",
+      "In one country, the cover looks bright and funny. In another, it looks mysterious. In another, it looks more literary, or more magical, or younger, or older. Same story, different doorway.",
+      "This is a good comparison because the inside of the book gives us a control. If the plot and characters are mostly the same, then the changing cover tells us something about the market around the book.",
+      "The reveal is that this is not just something collectors notice. Scholars who study translated children's books have documented changes in covers, titles, formats, volumes, and illustrations. A study of Newbery books in Chinese, Japanese, and Korean translations found that translated editions could transform cover images, book sizes, volumes, and interior illustrations. A Barnboken study of Norwegian children's novels looked at how covers changed in German, French, and English editions, including how the covers represented characters, setting, and theme.",
+      "So we test the easy guesses. Is the cover different because the publisher got bored? Sometimes redesign is just redesign, but that is too small. Is it because the artist made a random choice? Maybe partly. Is it because children everywhere want totally different stories? Not exactly, because the story itself traveled.",
+      "The stronger clue is that a cover is not only decoration. It is a sales pitch.",
+      "Children's books have a special problem: the child may be the reader, but an adult often buys, assigns, recommends, or approves the book. That means the cover may need to whisper to two audiences at once. To the child: this looks exciting. To the adult: this looks worthwhile, age-appropriate, or giftable.",
+      "Different countries may guess differently about those audiences. One publisher may think the book should look adventurous. Another may think it should look gentle. Another may make it look more literary so adults take it seriously. Another may foreground the foreign setting because that feels special. Another may downplay the foreignness because familiar-looking books sell more easily.",
+      "This is why cover design is a kind of translation. The words move from one language to another, but the package also moves from one set of bookstore habits, parent expectations, school values, and art conventions to another.",
+      "The useful caution is that covers can change our first reading before page one. They tell us whether to expect danger, coziness, comedy, magic, seriousness, or homework.",
+      "The final question is: when the same story gets a new face, what does that cover reveal about the reader a publisher is imagining?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Imagine the same children's book crossing a border. The hero is the same. The problem is the same. The ending is the same."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "But it arrives wearing a different face.",
+        "audioText": "[softly] But it arrives wearing a different face."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. In one country, the cover looks bright and funny. In another, it looks mysterious. In another, it looks more literary, or more magical, or younger, or older."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Same story, different doorway. Suspicious. In a useful way.",
+        "audioText": "[crisp] Same story, different doorway. Suspicious. In a useful way."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. This is a good comparison because the inside of the book gives us a control."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "If the plot and characters are mostly the same, then the changing cover tells us something about the market around the book."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the cover is evidence, not just wrapping paper.",
+        "audioText": "[pleased] So the cover is evidence, not just wrapping paper."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. And this is not only something collectors notice. Scholars who study translated children's books have documented changes in covers, titles, formats, volumes, and illustrations."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A study of Newbery books in Chinese, Japanese, and Korean translations found that translated editions could transform cover images, book sizes, volumes, and interior illustrations."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That is more than changing the words.",
+        "audioText": "[thoughtfully] That is more than changing the words."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It is. A Barnboken study of Norwegian children's novels looked at how covers changed in German, French, and English editions, including how the covers represented characters, setting, and theme."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Possible suspects: boredom, local taste, age labels, adult buyers, and the ancient bookstore problem of getting noticed.",
+        "audioText": "[orderly] Possible suspects: boredom, local taste, age labels, adult buyers, and the ancient bookstore problem of getting noticed."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Good list. Boredom is too small. Random artist choice may matter, but it is incomplete. And saying children everywhere want totally different stories does not work, because the story itself traveled."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Then the cover is answering a local question.",
+        "audioText": "[curious] Then the cover is answering a local question."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. The stronger clue is that a cover is not only decoration. It is a sales pitch."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Children's books have a special problem: the child may be the reader, but an adult often buys, assigns, recommends, or approves the book."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Two audiences. One small, one holding the wallet.",
+        "audioText": "[matter-of-fact] Two audiences. One small, one holding the wallet."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. The cover may need to whisper to both. To the child: this looks exciting. To the adult: this looks worthwhile, age-appropriate, or giftable."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Different countries may guess differently about those audiences. One publisher may think the book should look adventurous. Another may think it should look gentle. Another may make it look more literary so adults take it seriously."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Another may foreground the foreign setting because that feels special. Another may downplay the foreignness because familiar-looking books sell more easily."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the cover is also being translated.",
+        "audioText": "[softly] So the cover is also being translated."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. The words move from one language to another, but the package also moves from one set of bookstore habits, parent expectations, school values, and art conventions to another."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "And the cover teaches you how to expect the book before you have read page one.",
+        "audioText": "[precise] And the cover teaches you how to expect the book before you have read page one."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. It tells us whether to expect danger, coziness, comedy, magic, seriousness, or homework."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The final question is: when the same story gets a new face, what does that cover reveal about the reader a publisher is imagining?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Barnboken, Paratexts and Translation of the Exotic",
+        "url": "https://www.barnboken.net/index.php/clr/article/view/579",
+        "note": "Used for the study of how two Norwegian children's novels were visually and verbally translated through German, French, and English covers."
+      },
+      {
+        "label": "ASIS&T, Transformation of Newbery Award Books in Chinese, Japanese and Korean Translations",
+        "url": "https://asistdl.onlinelibrary.wiley.com/doi/10.1002/meet.2014.14505101135",
+        "note": "Used for evidence that translated children's books may change titles, cover images, sizes, volumes, and content illustrations."
+      },
+      {
+        "label": "OpenLearn, Marketing to Different Readerships",
+        "url": "https://www.open.edu/openlearn/mod/oucontent/view.php?id=64755&section=4.3",
+        "note": "Used for the point that the same book can be packaged differently for different readerships, including child and adult editions."
+      },
+      {
+        "label": "Publishers Weekly, The State of Children's Publishing in Translation",
+        "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/95982-going-the-distance-the-state-of-children-s-publishing-in-translation.html",
+        "note": "Used for contemporary publishing context around children's books moving between markets."
+      }
+    ]
   }
 ]
