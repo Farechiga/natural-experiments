@@ -198,6 +198,22 @@ Use the kid voice to:
 - challenge weak comparisons
 - add a little silliness without breaking the investigation
 
+Use praise as recognition, not as a catchphrase. The narrator should name what
+the child did: noticed a mechanism, connected two clues, spotted a weak
+comparison, made a useful analogy, or asked the question the listener needs.
+
+Avoid repeating stock praise such as "Beautifully put, Paxten" or "Beautifully
+put, Audrey." In a batch of ten episodes, that exact shape should appear rarely,
+if at all. Prefer varied, specific acknowledgment:
+
+- "Good catch, Audrey. That is the weak spot in the guess."
+- "Yes, Paxten. You are noticing the habit underneath the number."
+- "I like that comparison. It gets us closer to the mechanism."
+- "Exactly. You connected the clue to the rule."
+
+Do not praise every child turn. Sometimes the better response is to answer the
+question, sharpen it, or let the next clue do the work.
+
 When a big question lands, give it air.
 
 Good:
@@ -222,6 +238,23 @@ Use a streamlined Radiolab-like feel:
 
 Avoid jargon-babble and painful college essay endings.
 
+Clarity comes before sparkle. If a line has a clever rhythm but a third grader
+would not know what happened, rewrite it around a concrete noun and verb first.
+After the mechanism is clear, a small stylish turn is welcome.
+
+Use ordinary mechanism language before consultant or seminar language:
+
+- "main way people commute" before "main transit skeleton"
+- "main form of transportation" before "mobility backbone"
+- "rules that favored cars" before "automobility regime"
+- "schools trained boys for obedience and war" before "school as city machinery"
+
+If the script uses an adult term, define it immediately in plain language and
+give one example:
+
+> The study focuses on time-limited sports. That means sports where a player has
+> very little time to react, such as baseball, boxing, fencing, or table tennis.
+
 ## Dilettante Filter
 
 Before saving a script, run a concrete-language pass. Any sentence that sounds
@@ -236,7 +269,11 @@ Do not use foggy phrases such as:
 - a structure of feeling
 - pressure, when the script means a person, rule, deadline, or choice
 - the architecture of desire
-- X as Y, unless the comparison is plain enough for a child to picture
+- X as Y, unless the comparison is plain enough for a child to picture and has
+  already been explained concretely
+- abstract "as" formulas such as "school as machinery," "prose as power
+  struggle," or "left-handedness as disruption"
+- wispy moral questions that sound profound but do not name who does what
 
 Replace them with concrete language:
 
@@ -245,6 +282,7 @@ Replace them with concrete language:
 - What number moved?
 - What rule, tool, map, habit, or object made the difference?
 - What would a kid actually see on the field, street, stage, or page?
+- What question would a curious child ask in plain words?
 
 Good:
 
@@ -265,6 +303,19 @@ Less good ending:
 
 > What historical machine was each city sitting inside?
 
+### Concrete Question Gate
+
+Before saving, check every Audrey and Paxten line:
+
+1. Could a child paraphrase this line after hearing it once?
+2. Does it name a person, place, object, rule, number, action, or visible clue?
+3. If it uses a metaphor, has the literal idea already been explained?
+4. If it uses "as," would the phrase still be clear without sounding like a
+   college essay?
+
+If the answer is no, rewrite the line as a clear question or observation. Plain
+is better than jazzy when the listener is still learning the mechanism.
+
 ## Source Rules
 
 Every comparative mystery should include repository-level sources in
@@ -283,6 +334,11 @@ In the script, attribute the key numbers in plain language:
 > According to the Census Bureau...
 
 > PeopleForBikes' 2026 City Ratings...
+
+Name source institutions clearly enough that a listener or parent knows what
+kind of authority is being used. For example, if citing OpenStax, say "OpenStax
+by Rice University" the first time in an episode, then "OpenStax" is fine after
+that.
 
 Sources should support the comparison and the explanation. They should not sit
 there decoratively.

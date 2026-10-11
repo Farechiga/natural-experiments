@@ -183,7 +183,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten."
+        "text": "Yes, Paxten. You are noticing what changes after an idea arrives."
       },
       {
         "role": "narrator",
@@ -382,7 +382,7 @@
       "And LA was not built around only one center. It became a constellation: downtown, Hollywood, Wilshire, the ports, beach cities, studio towns, valleys, airports. Planners might call that polycentric. For kids, say this: instead of one giant magnet in the middle, LA had many magnets spread across the map.",
       "Once homes, stores, studios, and jobs spread out, the car became the tool that connected the dots. Then roads and freeways made driving easier, which made spreading out easier, which made driving feel even more necessary.",
       "So the answer is not that New Yorkers are train people and Angelenos are car people by nature. The old choices taught each city a habit.",
-      "The question to keep is: when a city is still choosing its bones, does it teach people to gather at stations or scatter toward parking lots?"
+      "The question to keep is: when a city is still choosing its travel habits, does it teach people to gather at stations or scatter toward parking lots?"
     ],
     "dialogueSegments": [
       {
@@ -475,7 +475,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. Another guess: maybe Los Angeles just has no transit."
+        "text": "Yes, Paxten. You are separating weather from the street map. Another guess: maybe Los Angeles just has no transit."
       },
       {
         "role": "audrey",
@@ -491,13 +491,13 @@
       {
         "role": "audrey",
         "speaker": "Audrey",
-        "text": "So Los Angeles is not transit-empty. The question is why transit did not become the main skeleton.",
-        "audioText": "[precise] So Los Angeles is not transit-empty. The question is why transit did not become the main skeleton."
+        "text": "So Los Angeles is not transit-empty. The question is why transit did not become the main way most people commute.",
+        "audioText": "[precise] So Los Angeles is not transit-empty. The question is why transit did not become the main way most people commute."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Yes, Audrey. Now compare the old bones."
+        "text": "Yes, Audrey. Now compare the early city patterns."
       },
       {
         "role": "narrator",
@@ -583,7 +583,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "The question to keep is: when a city is still choosing its bones, does it teach people to gather at stations or scatter toward parking lots?"
+        "text": "The question to keep is: when a city is still choosing its travel habits, does it teach people to gather at stations or scatter toward parking lots?"
       }
     ],
     "sources": [
@@ -649,15 +649,15 @@
     "comparisonPoints": [
       {
         "label": "Same Greek world",
-        "detail": "OpenStax describes the Greeks as politically divided into city-states but sharing a common language and religion."
+        "detail": "OpenStax by Rice University describes the Greeks as politically divided into city-states but sharing a common language and religion."
       },
       {
         "label": "Two leading poleis",
-        "detail": "OpenStax calls Athens and Sparta two of the most important Greek city-states of the Archaic and Classical periods."
+        "detail": "OpenStax by Rice University calls Athens and Sparta two of the most important Greek city-states of the Archaic and Classical periods."
       },
       {
         "label": "Shared war, later rivalry",
-        "detail": "OpenStax notes that during the Persian invasion Sparta commanded Greek land forces while Athens led the fleet; later, the rivalry between the two cities led to war."
+        "detail": "OpenStax by Rice University notes that during the Persian invasion Sparta commanded Greek land forces while Athens led the fleet; later, the rivalry between the two cities led to war."
       }
     ],
     "reveal": {
@@ -701,7 +701,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Exactly, Audrey. OpenStax describes the Greeks as politically divided into city-states, but sharing a common language and religion."
+        "text": "Exactly, Audrey. OpenStax by Rice University describes the Greeks as politically divided into city-states, but sharing a common language and religion."
       },
       {
         "role": "paxten",
@@ -712,7 +712,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. They were close enough to fight beside each other when Persia invaded: Sparta commanded Greek land forces, while Athens led the fleet."
+        "text": "Yes, Paxten. That shared world matters. They were close enough to fight beside each other when Persia invaded: Sparta commanded Greek land forces, while Athens led the fleet."
       },
       {
         "role": "narrator",
@@ -852,8 +852,8 @@
       {
         "role": "audrey",
         "speaker": "Audrey",
-        "text": "Age seven? That is not school as enrichment. That is school as city machinery.",
-        "audioText": "[sharply] Age seven? That is not school as enrichment. That is school as city machinery."
+        "text": "Age seven? That is not extra school enrichment. That is training boys for obedience and war.",
+        "audioText": "[sharply] Age seven? That is not extra school enrichment. That is training boys for obedience and war."
       },
       {
         "role": "narrator",
@@ -880,8 +880,8 @@
       {
         "role": "paxten",
         "speaker": "Paxten",
-        "text": "Sparta asks: how do we stay hard enough to hold what we took?",
-        "audioText": "[quietly] Sparta asks: how do we stay hard enough to hold what we took?"
+        "text": "Sparta asks: if we conquered people by force, how do we keep control by force?",
+        "audioText": "[quietly] Sparta asks: if we conquered people by force, how do we keep control by force?"
       },
       {
         "role": "narrator",
@@ -891,7 +891,7 @@
     ],
     "sources": [
       {
-        "label": "OpenStax, World History Volume 1: Ancient Greece",
+        "label": "OpenStax by Rice University, World History Volume 1: Ancient Greece",
         "url": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece",
         "note": "Used for Greek city-states, shared language and religion, Athens and Sparta as leading poleis, Athenian direct democracy, Sparta's oligarchy, Messenia, helots, and Persian War context."
       },
@@ -990,7 +990,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. Gutenberg matters, but he did not invent printing from nothing. His Bible was probably completed in Mainz in 1455, more than four hundred years after Bi Sheng."
+        "text": "Good question, Paxten. Gutenberg matters, but he did not invent printing from nothing. His Bible was probably completed in Mainz in 1455, more than four hundred years after Bi Sheng."
       },
       {
         "role": "audrey",
@@ -1115,7 +1115,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. Third clue: Europe in the 1400s. Alphabetic scripts, growing towns, universities, church demand, legal documents, schoolbooks, and many competing rulers and cities."
+        "text": "Yes, Paxten. That gives us the setting for the third clue: Europe in the 1400s. Alphabetic scripts, growing towns, universities, church demand, legal documents, schoolbooks, and many competing rulers and cities."
       },
       {
         "role": "audrey",
@@ -1226,7 +1226,7 @@
       "They make a surprisingly fair comparison. Both sit in the Upper Midwest. Both have real winter. Both grew with industry, rivers, lake water, immigrant neighborhoods, universities, and a lot of Germanic or northern European family history.",
       "And the snow does not rescue us. NOAA climate normals put Milwaukee's annual snowfall at about 48.7 inches. Minnesota climate normals put Minneapolis at about 51.2. That is close enough that winter cannot be the whole answer.",
       "Now the reveal. The Census Bureau's 2024 ACS five-year estimates put bicycle commuting at about 2.0 percent of Minneapolis workers and about 0.5 percent of Milwaukee workers. That is roughly four times as high in Minneapolis. But pause. In absolute terms, both numbers are small. This is a real signal, not a thunderclap.",
-      "So we test suspects. Is Minneapolis just braver in snow pants? Funny, but no. Is it ancestry? Minneapolis has German, Norwegian, and Swedish roots. Milwaukee has deep German and Polish roots. Culture may shape politics and habits, but ancestry does not paint bike lanes. Is it height? The tall Upper Midwest stereotype is amusing, but it is not a clean city-level explanation. Long legs do not build protected networks.",
+      "So we test suspects. Is Minneapolis just braver in snow pants? Funny, but no. Is it ancestry? Minneapolis has German, Norwegian, and Swedish roots. Milwaukee has deep German and Polish roots. Culture may shape politics and habits, but ancestry does not paint bike lanes. Is it height? The tall Upper Midwest stereotype is amusing, but it is not a clean city-level explanation. Height does not build connected bike routes.",
       "The better clue is the network. Minneapolis says it has 89 miles of trails, 36 miles of curb-protected bikeways and paths, and over 140 miles of painted bike lanes. That means many rides are not one heroic dash through traffic. They are connected pieces.",
       "Milwaukee is not doing nothing. The city says it has over 160 miles of bike lanes, including protected lanes, buffered lanes, and bike boulevards. It has also pushed toward a 50-mile protected bikeway goal by 2026. PeopleForBikes gives Milwaukee a strong 2026 city rating of 57. Minneapolis still scores higher at 68, but that is not an enormous canyon.",
       "So the mature conclusion is humble. Minneapolis probably has an edge in time, connection, safety, and habit. A bike network is also a trust network. If enough routes connect, if drivers expect bikes, if crossings feel safe, if winter maintenance works, then biking becomes less like a special announcement and more like putting on shoes.",
@@ -1346,13 +1346,13 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "We can inspect it and set it aside. Height is not a clean city-level measure here, and long legs do not build protected networks."
+        "text": "We can inspect it and set it aside. Height is not a clean city-level measure here, and height does not build connected bike routes."
       },
       {
         "role": "audrey",
         "speaker": "Audrey",
-        "text": "Noted. Legs are not infrastructure.",
-        "audioText": "[precise] Noted. Legs are not infrastructure."
+        "text": "Noted. Height does not build bike routes.",
+        "audioText": "[precise] Noted. Height does not build bike routes."
       },
       {
         "role": "narrator",
@@ -1373,7 +1373,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Audrey."
+        "text": "Good, Audrey. That is why connection matters."
       },
       {
         "role": "narrator",
@@ -1432,7 +1432,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten."
+        "text": "Exactly, Paxten. That is the useful version of path dependence."
       },
       {
         "role": "narrator",
@@ -1613,7 +1613,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. That is the guardrail. Not everywhere."
+        "text": "Exactly. That is the guardrail: not everywhere."
       },
       {
         "role": "audrey",
@@ -1656,7 +1656,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. And that matters most when time is short."
+        "text": "Yes. That is why short reaction time matters."
       },
       {
         "role": "narrator",
@@ -1666,8 +1666,8 @@
       {
         "role": "audrey",
         "speaker": "Audrey",
-        "text": "So this is not left-handedness as a superpower. It is left-handedness as an uncommon test.",
-        "audioText": "[precise] So this is not left-handedness as a superpower. It is left-handedness as an uncommon test."
+        "text": "So this is not left-handedness turned into a superpower. It is an uncommon pattern opponents have less practice facing.",
+        "audioText": "[precise] So this is not left-handedness turned into a superpower. It is an uncommon pattern opponents have less practice facing."
       },
       {
         "role": "narrator",
@@ -1722,6 +1722,250 @@
         "label": "PubMed, Handedness in fast ball sports",
         "url": "https://pubmed.ncbi.nlm.nih.gov/2736342/",
         "note": "Used for earlier research asking whether left-handers have an advantage in fast ball sports such as cricket and tennis."
+      }
+    ]
+  },
+  {
+    "id": "manga-american-comics-visual-style",
+    "title": "Why Do Japanese Manga and American Comics Look So Different?",
+    "author": "Comparative mystery",
+    "lengthLabel": "investigation",
+    "focus": "Two comics traditions can tell similar adventure stories, but one grew around fast black-and-white serial chapters while the other grew around color monthly comic books.",
+    "framing": "Japanese manga and American comics can both tell stories about heroes, rivalries, powers, monsters, school life, friendship, and danger. So why do they often look and feel so different on the page?",
+    "comparisonPoints": [
+      {
+        "label": "Same broad medium",
+        "detail": "Both traditions use sequences of drawn panels to tell stories, often mixing pictures, words, action, and recurring characters."
+      },
+      {
+        "label": "Similar story territory",
+        "detail": "Mainstream Japanese shonen manga and mainstream American comics both include action, adventure, science fiction, fantasy, teams, powers, battles, and long-running serial stories."
+      },
+      {
+        "label": "Global influence",
+        "detail": "Both traditions became internationally recognizable styles, and each has influenced readers and artists outside its home country."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "A Frontiers in Psychology study found measurable panel differences: Japanese manga used significantly more panels focused on single pieces, details, and environmental fragments, while American comics more often showed whole scenes."
+    },
+    "audioSrc": "audio/natural-experiments/manga-american-comics-visual-style.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery. A Japanese manga and an American comic can both tell a story about a young hero, a dangerous enemy, a team of friends, and a world that needs saving.",
+      "So why do the pages often feel so different?",
+      "This is a good comparison because the two traditions are not solving completely different jobs. Both use panels. Both mix words and pictures. Both can build long serial stories where readers follow characters for years.",
+      "But the reveal is that the difference is not only a feeling. Researchers have counted panels. In a Frontiers in Psychology study, Neil Cohn and colleagues compared mainstream Japanese manga with mainstream and independent American comics. Japanese manga used significantly more panels that focused on one piece of a scene, a small detail, or part of the surrounding environment. American comics more often showed whole scenes.",
+      "For a kid, say it this way: American comics often give you the stage. Manga more often gives you the eye moving around the stage: the hand, the shoe, the empty hallway, the close face, the wind in the grass.",
+      "Now we test easy guesses. Is it just because Japanese artists draw big eyes? No. Is it just because Americans like superheroes? No. Is it just because Japan reads right to left? That affects page flow, but it does not explain everything.",
+      "The stronger clue is the publishing machine.",
+      "Postwar Japanese manga grew around thick weekly and monthly magazines. Google Arts and Culture describes these magazines as thick booklets made almost entirely of manga, sold at low prices. Web Japan describes a system where editors track reader surveys, popular series move forward, and unpopular ones can be cut. Artists often work with assistants to keep up with the pace.",
+      "That machine rewards speed, rhythm, and lots of pages. Most manga is black and white, so artists can move quickly with line, tone, close-ups, pauses, and repeated beats. A chapter can spend several panels on a glance or a footstep because the format gives the artist room to stretch time.",
+      "Mainstream American comics grew differently. Cohn's study describes mainstream American comics as serialized monthly pamphlets, often sold through specialty comic shops, with a production team: writer, penciler, inker, colorist, letterer, and editor. Color is part of the normal look. Pages are fewer, so each one often has to carry a lot of plot, action, and explanation.",
+      "So the page learns different habits. Manga can afford to linger. American comics often need to summarize, pose, punch, and move on. Manga often makes the reader feel inside the moment. American comics often show the reader the scene clearly from outside.",
+      "That is not a rule for every book. There are quiet American comics, colorful manga, experimental artists, and plenty of borrowing both ways. But the old publishing clocks still matter.",
+      "The useful question is: when two art forms tell similar stories, what did their deadlines, page counts, colors, readers, and business models train the artists to do?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A Japanese manga and an American comic can both tell a story about a young hero, a dangerous enemy, a team of friends, and a world that needs saving."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "That sounds like cousins wearing different clothes.",
+        "audioText": "[softly amused] That sounds like cousins wearing different clothes."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. So why do the pages often feel so different?"
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Before we begin, I reject any answer that says, because Japan is Japan and America is America.",
+        "audioText": "[firmly] Before we begin, I reject any answer that says, because Japan is Japan and America is America."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Good. That is too vague to help us. We need evidence."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "This is a good comparison because the two traditions are not solving completely different jobs. Both use panels. Both mix words and pictures. Both can build long serial stories where readers follow characters for years."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the mystery is not why a comic and a piano concerto look different.",
+        "audioText": "[lightly] So the mystery is not why a comic and a piano concerto look different."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. These are close enough relatives that the difference is worth investigating."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "And the difference is not only a feeling. Researchers have counted panels."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Excellent. The vibes have been asked to sit down, and the data may enter.",
+        "audioText": "[pleased] Excellent. The vibes have been asked to sit down, and the data may enter."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "In a Frontiers in Psychology study, Neil Cohn and colleagues compared mainstream Japanese manga with mainstream and independent American comics."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "They found that Japanese manga used significantly more panels focused on one piece of a scene, a small detail, or part of the surrounding environment. American comics more often showed whole scenes."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So one page says, here is the whole room. The other says, look at the hand, the shoe, the quiet hallway.",
+        "audioText": "[picturing it] So one page says, here is the whole room. The other says, look at the hand, the shoe, the quiet hallway."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. American comics often give you the stage. Manga more often gives you the eye moving around the stage."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Possible suspects: big eyes, superheroes, reading direction, and printing choices.",
+        "audioText": "[orderly] Possible suspects: big eyes, superheroes, reading direction, and printing choices."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Good list. Big eyes are visible, but they are not the whole machine. Superheroes matter in American mainstream comics, but manga has action heroes too. Reading direction affects page flow, but it does not explain all the panel choices."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Then maybe we should look under the page.",
+        "audioText": "[curious] Then maybe we should look under the page."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. The stronger clue is the publishing machine."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Postwar Japanese manga grew around thick weekly and monthly magazines. Google Arts and Culture describes these magazines as thick booklets made almost entirely of manga, sold at low prices."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Web Japan describes a system where editors track reader surveys, popular series move forward, and unpopular ones can be cut. Artists often work with assistants to keep up with the pace."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the magazine is not just a container. It is a race track.",
+        "audioText": "[quickly] So the magazine is not just a container. It is a race track."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. That machine rewards speed, rhythm, and lots of pages."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Most manga is black and white, so artists can move quickly with line, tone, close-ups, pauses, and repeated beats. A chapter can spend several panels on a glance or a footstep because the format gives the artist room to stretch time."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "A tiny pause can become a whole little weather system.",
+        "audioText": "[softly] A tiny pause can become a whole little weather system."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Now compare mainstream American comics. Cohn's study describes them as serialized monthly pamphlets, often sold through specialty comic shops, with a production team: writer, penciler, inker, colorist, letterer, and editor."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That is a lot of people touching one page.",
+        "audioText": "[noting it] That is a lot of people touching one page."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It is. Color is part of the normal look. Pages are fewer, so each one often has to carry a lot of plot, action, and explanation."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "So the page learns different habits. Manga can afford to linger. American comics often need to summarize, pose, punch, and move on."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That explains the shape without pretending every artist is the same.",
+        "audioText": "[satisfied] That explains the shape without pretending every artist is the same."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. There are quiet American comics, colorful manga, experimental artists, and plenty of borrowing both ways. But the old publishing clocks still matter."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "The deadline leaves fingerprints.",
+        "audioText": "[softly] The deadline leaves fingerprints."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The useful question is: when two art forms tell similar stories, what did their deadlines, page counts, colors, readers, and business models train the artists to do?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Frontiers in Psychology, Framing Attention in Japanese and American Comics",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00349/full",
+        "note": "Used for the empirical comparison of Japanese manga, mainstream American comics, and independent American comics, including panel-framing findings and production-format context."
+      },
+      {
+        "label": "Google Arts & Culture, The Development of the Manga Market",
+        "url": "https://artsandculture.google.com/story/swWhUYHkDTG1LA",
+        "note": "Used for the postwar weekly manga magazine model, thick low-priced booklets, genre subdivision, and magazine-to-book market structure."
+      },
+      {
+        "label": "Web Japan, The Creation of Manga",
+        "url": "https://web-japan.org/trends/09_culture/pop110210.html",
+        "note": "Used for Japan's editor-reader feedback system, reader surveys, ruthless serialization decisions, and assistant-supported production pace."
+      },
+      {
+        "label": "Library of Congress, Collections Policy Statement: Comics and Cartoons",
+        "url": "https://www.loc.gov/acq/devpol/comics.pdf",
+        "note": "Used for broad U.S. comics context, including serial comic-book publication and fiction genres such as superhero stories."
       }
     ]
   }

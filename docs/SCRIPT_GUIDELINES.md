@@ -85,6 +85,18 @@ Paxten helps with:
 Use the girls to expose the "so what." If they would have nothing interesting
 to say yet, the opening probably has not found its hook.
 
+Let the narrator recognize good thinking without turning recognition into a
+catchphrase. Do not repeat "Beautifully put, Paxten" or "Beautifully put,
+Audrey" across a run of scripts. When praise is useful, name the move:
+
+- "Good question. That gets us to the mechanism."
+- "Yes. You noticed the choice that made the next choice harder."
+- "I like how you connected the object to the feeling."
+- "Exactly. That is the hidden turn in the scene."
+
+Often the best response is not praise at all. Answer the question, sharpen the
+contrast, or let the next beat prove why the child's observation mattered.
+
 ## Use Truthful Specificity
 
 Concrete is good. Inventing false facts is not.
@@ -155,6 +167,9 @@ Accessible, but not flat.
 Every image should help the listener picture a person before it asks them to
 understand a theme.
 
+Clear first, lyrical second. A sentence may be beautiful, but it must first tell
+the listener what a person wants, fears, does, chooses, loses, or notices.
+
 ## Dilettante And Painful College Essay Filter
 
 After drafting, run a final pass for sentences that sound clever but do not
@@ -171,10 +186,16 @@ Red flags:
   consequence
 - lines that could appear in almost any essay if the title were changed
 - Paxten lines that float above the scene instead of deepening it
+- "X as Y" formulas that turn a concrete scene into an abstract label
+- chain metaphors, doorway metaphors, or pressure metaphors that are not
+  immediately explained in plain human terms
 
 Better test:
 
 Can a middle-grade listener see it, feel it, or ask a real question about it?
+
+For every poetic line, ask: what is the plain version? If the plain version is
+unclear, write that first. Then, if needed, add one clean image.
 
 Less good:
 
@@ -182,8 +203,8 @@ Less good:
 
 Better:
 
-> So Christmas is not just the pretty part. It is the day that keeps knocking
-> at his door.
+> For Scrooge, Christmas is more than a festive holiday. It keeps reminding him
+> that other people still matter.
 
 Less good:
 
@@ -193,6 +214,15 @@ Better:
 
 > Dickens asks whether a man who has made himself hard can still learn to care
 > while there is time.
+
+Less good:
+
+> A chain made of choices.
+
+Better:
+
+> The chain shows how one selfish choice after another can become a burden on
+> a person's conscience.
 
 Paxten may stay poetic, but her poetry should be clean and visible:
 

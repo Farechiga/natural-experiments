@@ -37,13 +37,13 @@
       {
         "role": "paxten",
         "speaker": "Paxten",
-        "text": "So Christmas is not just the pretty part. It is the day that keeps knocking at his door.",
-        "audioText": "[softly] So Christmas is not just the pretty part. It is the day that keeps knocking at his door."
+        "text": "For Scrooge, Christmas is more than a festive holiday. It keeps reminding him that other people still matter.",
+        "audioText": "[softly] For Scrooge, Christmas is more than a festive holiday. It keeps reminding him that other people still matter."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. Ebenezer Scrooge is rich, old, and almost impossible to reach. He trusts ledgers, debts, locks, and bargains. People make demands."
+        "text": "Yes, Paxten. That gets us to Scrooge himself. Ebenezer Scrooge is rich, old, and almost impossible to reach. He trusts ledgers, debts, locks, and bargains. People make demands."
       },
       {
         "role": "audrey",
@@ -59,8 +59,8 @@
       {
         "role": "paxten",
         "speaker": "Paxten",
-        "text": "That is colder than just being lonely. It is choosing a smaller and smaller life.",
-        "audioText": "[quietly] That is colder than just being lonely. It is choosing a smaller and smaller life."
+        "text": "That is more than loneliness. Once he starts pulling away, it becomes harder to let anyone close.",
+        "audioText": "[quietly] That is more than loneliness. Once he starts pulling away, it becomes harder to let anyone close."
       },
       {
         "role": "narrator",
@@ -81,8 +81,8 @@
       {
         "role": "audrey",
         "speaker": "Audrey",
-        "text": "A chain made of choices. That is rather exact.",
-        "audioText": "[quietly impressed] A chain made of choices. That is rather exact."
+        "text": "The chain shows how one selfish choice after another can become a burden on a person's conscience.",
+        "audioText": "[quietly impressed] The chain shows how one selfish choice after another can become a burden on a person's conscience."
       },
       {
         "role": "narrator",
@@ -200,13 +200,13 @@
       {
         "role": "paxten",
         "speaker": "Paxten",
-        "text": "So this is not only history. It is pressure building under people's lives.",
-        "audioText": "[softly] So this is not only history. It is pressure building under people's lives."
+        "text": "So this is not only history. It is hunger, fear, and anger building under people's lives.",
+        "audioText": "[softly] So this is not only history. It is hunger, fear, and anger building under people's lives."
       },
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. At the center is Lucie Manette, a young woman in London with one enormous absence: her father."
+        "text": "Yes, Paxten. That human pressure matters. At the center is Lucie Manette, a young woman in London with one enormous absence: her father."
       },
       {
         "role": "narrator",
@@ -364,7 +364,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. And with his writer Lorenzo Da Ponte, Mozart liked dangerous material. Their Figaro came from a play too politically touchy for public performance in Vienna."
+        "text": "Good, Paxten. That gets us to the danger in the comedy. With his writer Lorenzo Da Ponte, Mozart liked dangerous material. Their Figaro came from a play too politically touchy for public performance in Vienna."
       },
       {
         "role": "audrey",
@@ -556,7 +556,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. It comes from commedia dell'arte, an old comedy tradition where familiar characters wear their troubles almost like masks."
+        "text": "Yes, Paxten. That old comedy tradition matters. It comes from commedia dell'arte, where familiar characters wear their troubles almost like masks."
       },
       {
         "role": "audrey",
@@ -740,7 +740,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. In that house, people say there is a monster hidden in the tower."
+        "text": "Yes, Paxten. That rumor drives the story. In that house, people say there is a monster hidden in the tower."
       },
       {
         "role": "audrey",
@@ -827,7 +827,7 @@
       "Why do things get in a muddle? Are we serious, or is this a game? How much do you know? What is an instinct?",
       "But Gregory Bateson is not writing little answers in disguise. He is making the conversation perform the problem.",
       "If the daughter asks about muddles, the talk itself gets tangled. If she asks about games, the conversation starts behaving like a game. If she asks about knowing, the father has to admit that knowing is not as tidy as adults pretend.",
-      "That is the electricity of the Metalogues: the daughter is not a cute excuse for a lecture. She is the pressure. She notices the wobble in the adult answer and will not let it stand.",
+      "That is the electricity of the Metalogues: the daughter is not a cute excuse for a lecture. She is the one who keeps pressing. She notices the wobble in the adult answer and will not let it stand.",
       "Her father is a scientist of patterns, but here he cannot hide inside expertise. He has to think with her, in real time, where mistakes and sidetracks are part of the method.",
       "The Metalogues are about learning how to learn: how confusion can be useful, how a question can change shape while you hold it, and how thinking with another person is different from thinking alone.",
       "The question is whether the father is teaching the daughter how to think, or whether her questions are teaching him where thought actually begins."
@@ -858,7 +858,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. Gregory Bateson was a thinker of patterns: anthropology, psychology, cybernetics, communication, mind."
+        "text": "Exactly, Paxten. Gregory Bateson was a thinker of patterns: anthropology, psychology, cybernetics, communication, mind."
       },
       {
         "role": "audrey",
@@ -891,7 +891,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Yes, Paxten. And the daughter is not decoration. She is the pressure in the room."
+        "text": "Yes, Paxten. And the daughter is not decoration. She is the person who keeps pressing the question."
       },
       {
         "role": "audrey",
@@ -1001,7 +1001,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. Claudia wants her family to notice her, but she also wants proof that she is more than the chores and routines waiting at home."
+        "text": "Yes, Paxten. That want is the doorway. Claudia wants her family to notice her, but she also wants proof that she is more than the chores and routines waiting at home."
       },
       {
         "role": "audrey",
@@ -1160,7 +1160,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. Rusty has comfort, but something in him keeps looking past the edge of his owner's garden."
+        "text": "Yes, Paxten. That restlessness is the doorway. Rusty has comfort, but something in him keeps looking past the edge of his owner's garden."
       },
       {
         "role": "audrey",
@@ -1226,7 +1226,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. Meanwhile, ThunderClan itself is in danger. ShadowClan is growing stronger, the warrior code is under strain, and not every threat comes from outside camp."
+        "text": "Good, Paxten. Now the outside danger meets the inside danger. ShadowClan is growing stronger, the warrior code is under strain, and not every threat comes from outside camp."
       },
       {
         "role": "audrey",
@@ -1312,7 +1312,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. And here is the spark: what if the things that make school hard are not proof that Percy is broken? What if they are clues that he belongs to a hidden world?"
+        "text": "Yes, Paxten. That is the spark: what if the things that make school hard are not proof that Percy is broken? What if they are clues that he belongs to a hidden world?"
       },
       {
         "role": "audrey",
@@ -1424,7 +1424,7 @@
       "That is where the story gets interesting. Almanzo is not trying to escape childhood by becoming fancy or famous. He is trying to grow into a kind of usefulness that matters in his world.",
       "His father is not easily impressed. His mother keeps the household moving with skill and force. His siblings are older, sharper, and often ahead of him. Almanzo is the youngest boy, and being youngest means wanting the world to notice you are catching up.",
       "Farmer Boy asks a quiet, sturdy question: what does it mean for a child to want responsibility before adults are sure he is ready?",
-      "And underneath the butter, barns, and pies, there is another question: will Almanzo inherit farm life as a cage, or choose it as the work that makes him feel most alive?",
+      "And underneath the butter, barns, and pies, there is another question: will farm life feel like chores forced on Almanzo, or work he chooses because it makes him feel most alive?",
       "The story's pull is not danger in the usual sense. It is the suspense of growing. Can a boy prove that his wanting is not just wanting, but readiness?"
     ],
     "dialogueSegments": [
@@ -1475,7 +1475,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put, Paxten. The Wilder farm runs on work. Cows must be milked. Ice must be cut. Potatoes must be planted. Sheep must be sheared. Calves must be broken. And Almanzo is expected to learn how to do his share."
+        "text": "Yes, Paxten. That appetite for work matters. The Wilder farm runs on work. Cows must be milked. Ice must be cut. Potatoes must be planted. Sheep must be sheared. Calves must be broken. And Almanzo is expected to learn how to do his share."
       },
       {
         "role": "audrey",
@@ -1541,7 +1541,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Beautifully put. Farmer Boy asks a quiet, sturdy question: what does it mean for a child to want responsibility before adults are sure he is ready?"
+        "text": "Exactly. Farmer Boy asks a quiet, sturdy question: what does it mean for a child to want responsibility before adults are sure he is ready?"
       },
       {
         "role": "audrey",
@@ -1552,7 +1552,7 @@
       {
         "role": "narrator",
         "speaker": "Narrator",
-        "text": "Much more. And underneath the butter, barns, and pies, there is another question: will Almanzo inherit farm life as a cage, or choose it as the work that makes him feel most alive?"
+        "text": "Much more. And underneath the butter, barns, and pies, there is another question: will farm life feel like chores forced on Almanzo, or work he chooses because it makes him feel most alive?"
       },
       {
         "role": "paxten",
