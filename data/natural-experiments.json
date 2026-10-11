@@ -1968,5 +1968,243 @@
         "note": "Used for broad U.S. comics context, including serial comic-book publication and fiction genres such as superhero stories."
       }
     ]
+  },
+  {
+    "id": "school-uniforms-britain-japan-us",
+    "title": "Why Are School Uniforms Common in Britain and Japan but Unusual in U.S. Public Schools?",
+    "author": "Comparative mystery",
+    "lengthLabel": "investigation",
+    "focus": "Three wealthy school systems all care about order and belonging, but only some made uniforms feel normal.",
+    "framing": "Britain, Japan, and the United States all built mass school systems, and all three care about student behavior, school identity, and families' costs. So why do uniforms feel ordinary in Britain and Japan but much less ordinary in American public schools?",
+    "comparisonPoints": [
+      {
+        "label": "Same broad job",
+        "detail": "All three countries use schools to teach children, organize daily routines, and signal what kind of community the school is trying to be."
+      },
+      {
+        "label": "Same possible tool",
+        "detail": "A uniform is simple in theory: choose the clothes students wear to school, then make that choice part of the institution's rules."
+      },
+      {
+        "label": "Same concerns",
+        "detail": "Supporters often point to discipline, equality, belonging, safety, cost, and school identity; critics worry about expense, comfort, enforcement, and individual choice."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "In the United States, NCES reported that only 18.8% of public schools required uniforms in 2019-20, while British and Japanese schools treat uniforms as a much more ordinary part of school identity."
+    },
+    "audioSrc": "audio/natural-experiments/school-uniforms-britain-japan-us.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery. Britain, Japan, and the United States all have big school systems. Children line up, change classes, follow rules, join clubs, take tests, and learn how to belong to a school.",
+      "So why does a school uniform feel normal in Britain and Japan, but much less normal in American public schools?",
+      "This is a good comparison because the object is simple. A blazer, tie, skirt, trousers, polo shirt, or jacket is not advanced technology. Any country could choose it. The mystery is why the same tool became ordinary in some places and optional or controversial in another.",
+      "The reveal starts with the United States. The National Center for Education Statistics reported that in 2019-20, only 18.8 percent of American public schools required students to wear uniforms. That is not zero. But it is far from the default.",
+      "Now compare Britain. The English government has national guidance about school uniforms, including rules about keeping costs reasonable. That does not mean every uniform is loved, or every policy is perfect. It means uniforms are normal enough that the government has detailed rules about how schools should handle them.",
+      "Japan gives us another path. School uniform history there reaches back to the Meiji period, when Japan was modernizing its schools and institutions. Today the uniform is still one of the most recognizable signs of Japanese school life.",
+      "So we test the easy guesses. Is it climate? No. Britain is not Japan. Is it wealth? No. These are all wealthy countries. Is it simply that children behave better in uniforms? Careful. Research on effects is mixed, and the mystery is not whether uniforms magically fix school. The mystery is why uniforms became institutionally normal.",
+      "The stronger clue is what the uniform was asked to do.",
+      "In Britain, uniforms became tied to school identity and institutional tradition. The uniform says: you belong to this school, with its colors, rules, and reputation. In Japan, uniforms became tied to modernization, group belonging, and the visible rhythm of student life. The uniform says: you are part of this school community, and school is a serious public role.",
+      "In the United States, public schools often built identity differently. Local school districts, casual dress habits, individual expression, and suspicion of too much school control all matter. Uniforms can feel like private school, military school, or a special rule for a particular district instead of the ordinary background of public education.",
+      "So the same shirt can carry different meanings. In one place it says tradition. In another it says group belonging. In another it may say restriction, extra cost, or a rule adults are arguing about.",
+      "The honest conclusion is that uniforms are not only clothing. They are a school governance signal. Once a country makes them ordinary, families, shops, school rules, photographs, ceremonies, and expectations grow around them. Once a country does not, adding them later feels like a new argument.",
+      "The reusable question is: when two places have the same tool available, did they make it part of normal life early enough that people stopped seeing it as a choice?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Britain, Japan, and the United States all have big school systems. Children line up, change classes, follow rules, join clubs, take tests, and learn how to belong to a school."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "And yet some children are wearing blazers and ties, and some are wearing hoodies with crumbs in the pocket.",
+        "audioText": "[dryly] And yet some children are wearing blazers and ties, and some are wearing hoodies with crumbs in the pocket."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. So why does a school uniform feel normal in Britain and Japan, but much less normal in American public schools?"
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "It is funny because the object is so ordinary. Just clothes.",
+        "audioText": "[thoughtfully] It is funny because the object is so ordinary. Just clothes."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. A blazer, tie, skirt, trousers, polo shirt, or jacket is not advanced technology. Any country could choose it."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the mystery is not whether the uniform exists. It is whether the school system made it feel normal.",
+        "audioText": "[precise] So the mystery is not whether the uniform exists. It is whether the school system made it feel normal."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Good. Now the reveal starts with the United States."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The National Center for Education Statistics reported that in twenty-nineteen to twenty-twenty, only eighteen point eight percent of American public schools required students to wear uniforms."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So not zero, but not the usual thing.",
+        "audioText": "[gently] So not zero, but not the usual thing."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. Not zero, but far from the default."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Now compare Britain. The English government has national guidance about school uniforms, including rules about keeping costs reasonable."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "If the government has detailed advice about the uniform, the uniform is already deep inside the machinery.",
+        "audioText": "[crisp] If the government has detailed advice about the uniform, the uniform is already deep inside the machinery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. That does not mean every uniform is loved, or every policy is perfect. It means uniforms are normal enough that the government has detailed rules about how schools should handle them."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Japan gives us another path. School uniform history there reaches back to the Meiji period, when Japan was modernizing its schools and institutions."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the clothes arrived with a bigger story about becoming modern.",
+        "audioText": "[softly] So the clothes arrived with a bigger story about becoming modern."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. Today the uniform is still one of the most recognizable signs of Japanese school life."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Possible suspects: weather, money, discipline, tradition, and adults enjoying rules too much.",
+        "audioText": "[orderly, with a tiny edge] Possible suspects: weather, money, discipline, tradition, and adults enjoying rules too much."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A fair suspect list. Climate does not explain it. Britain is not Japan. Wealth does not explain it. These are all wealthy countries."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "And we should be careful with discipline. Research on whether uniforms improve schools is mixed. Uniforms are not magic behavior coats."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Magic behavior coats would be very popular with tired parents.",
+        "audioText": "[quietly amused] Magic behavior coats would be very popular with tired parents."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "They would. But the better question is why uniforms became institutionally normal."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The stronger clue is what the uniform was asked to do."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "In Britain, uniforms became tied to school identity and institutional tradition. The uniform says: you belong to this school, with its colors, rules, and reputation."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "In Japan, uniforms became tied to modernization, group belonging, and the visible rhythm of student life. The uniform says: you are part of this school community, and school is a serious public role."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Same clothing idea, different job descriptions.",
+        "audioText": "[satisfied] Same clothing idea, different job descriptions."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Now compare the United States. Public schools often built identity differently: local school districts, casual dress habits, individual expression, and suspicion of too much school control all matter."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the uniform can feel like a new rule, not the background music.",
+        "audioText": "[thoughtful] So the uniform can feel like a new rule, not the background music."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. In one place the same shirt may say tradition. In another it may say group belonging. In another it may say restriction, extra cost, or a rule adults are arguing about."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So uniforms are not only clothing. They are a school governance signal.",
+        "audioText": "[precise] So uniforms are not only clothing. They are a school governance signal."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. Once a country makes them ordinary, families, shops, school rules, photographs, ceremonies, and expectations grow around them. Once a country does not, adding them later feels like a new argument."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The reusable question is: when two places have the same tool available, did they make it part of normal life early enough that people stopped seeing it as a choice?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Center for Education Statistics, School Uniforms",
+        "url": "https://nces.ed.gov/fastfacts/display.asp?id=50",
+        "note": "Used for the 2019-20 figure that 18.8% of U.S. public schools required uniforms."
+      },
+      {
+        "label": "GOV.UK, Cost of School Uniforms",
+        "url": "https://www.gov.uk/government/publications/cost-of-school-uniforms",
+        "note": "Used for England's national school uniform guidance and the policy concern that uniforms should be affordable."
+      },
+      {
+        "label": "Japan Educational Travel, Japanese Schools and Uniforms",
+        "url": "https://education.jnto.go.jp/en/school-in-japan/school-life-in-japan/japanese-schools-and-uniforms/",
+        "note": "Used for Japanese school uniform history from the Meiji period and the present-day role of uniforms in school life."
+      },
+      {
+        "label": "Public Health Reviews, School Uniforms in a Pandemic",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8386814/",
+        "note": "Used for comparative background on school uniform traditions, policy rationales, and the caution that evidence about uniform effects is mixed."
+      }
+    ]
   }
 ]
