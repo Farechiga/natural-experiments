@@ -2411,5 +2411,404 @@
         "note": "Used for contemporary publishing context around children's books moving between markets."
       }
     ]
+  },
+  {
+    "id": "ocean-blue-glass-clear",
+    "title": "Why Does the Ocean Look Blue When Water in a Glass Looks Clear?",
+    "author": "Comparative mystery",
+    "lengthLabel": "investigation",
+    "focus": "The same water can look invisible in a cup and blue across an ocean because light has a much longer path to travel.",
+    "framing": "A glass of water can look clear, while the ocean can look deep blue. If both are water, why does the amount of water change what our eyes see?",
+    "comparisonPoints": [
+      {
+        "label": "Same substance",
+        "detail": "A glass of water and ocean water are both mostly water, even though ocean water also contains salt and many other materials."
+      },
+      {
+        "label": "Same incoming sunlight",
+        "detail": "Both are lit by white sunlight, which contains many colors of visible light."
+      },
+      {
+        "label": "Different path length",
+        "detail": "Light travels only a short distance through a glass but can travel much farther through ocean water."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "NOAA explains that ocean water looks blue because water absorbs colors in the red part of the light spectrum, leaving more blue light to be seen."
+    },
+    "audioSrc": "audio/natural-experiments/ocean-blue-glass-clear.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery. Fill a clear glass with water, and it looks almost invisible. You can see your hand through it. You can see the table. The water seems to have no color at all.",
+      "Now look at the ocean. It can be bright blue, deep blue, turquoise, gray-green, or almost black. Same basic substance, wildly different appearance.",
+      "So what changed?",
+      "The first clue is that water is not perfectly colorless. NOAA explains that the ocean is blue because water absorbs colors in the red part of the light spectrum. White sunlight has many colors inside it. As light moves through water, the reddish colors get absorbed more strongly, and more blue light is left to scatter back toward our eyes.",
+      "But that effect is weak in a drinking glass. The light has only a tiny amount of water to cross. It is like looking through one thin sheet of pale blue glass: you barely notice the color.",
+      "The ocean is different because light travels through far more water. A weak effect repeated over many feet or many meters becomes visible. The water is acting like a huge filter. The longer the path, the more the red light gets removed, and the more blue the water can appear.",
+      "Now test the easy guess: is the ocean blue only because it reflects the sky? No. The sky can make the surface look bluer, and clouds can make it look grayer, but NOAA and ocean scientists explain that water itself absorbs red light. The blue is not just a mirror trick.",
+      "Second guess: is every ocean always blue? Also no. The Library of Congress notes that ocean color changes with particles in the water, depth, and skylight. Mud, sand, plankton, and algae can make water look green, brown, red, or cloudy. Shallow tropical water may look turquoise because sunlight bounces off bright sand below.",
+      "So the clean comparison is not glass water versus every possible ocean. It is a glass of clear water versus a deep stretch of relatively clear ocean water.",
+      "The grown-up idea is path length. The child version is: a little water is too thin to show its color, but a lot of water gives light enough room to be changed.",
+      "The reusable question is: when something looks different at a large scale, is it really a different thing, or is the same tiny effect finally big enough to see?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Fill a clear glass with water, and it looks almost invisible. You can see your hand through it. You can see the table. The water seems to have no color at all."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "It is like a tiny window you can drink.",
+        "audioText": "[softly amused] It is like a tiny window you can drink."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Now look at the ocean. It can be bright blue, deep blue, turquoise, gray-green, or almost black."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Same basic substance, wildly different appearance. I am already suspicious.",
+        "audioText": "[crisp] Same basic substance, wildly different appearance. I am already suspicious."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Good. So what changed?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The first clue is that water is not perfectly colorless."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Excuse me. The clear stuff has a color?",
+        "audioText": "[incredulous] Excuse me. The clear stuff has a color?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A very weak one. NOAA explains that the ocean is blue because water absorbs colors in the red part of the light spectrum."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "White sunlight has many colors inside it. As light moves through water, the reddish colors get absorbed more strongly, and more blue light is left to scatter back toward our eyes."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the water is quietly taking away some of the red.",
+        "audioText": "[thoughtfully] So the water is quietly taking away some of the red."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. But in a drinking glass, the effect is too weak to notice. The light has only a tiny amount of water to cross."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Like looking through one thin sheet of pale blue glass. Technically blue, but not enough to impress anyone.",
+        "audioText": "[precise] Like looking through one thin sheet of pale blue glass. Technically blue, but not enough to impress anyone."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. The ocean is different because light travels through far more water."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A weak effect repeated over many feet or many meters becomes visible. The water is acting like a huge filter."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the ocean is not different water. It is more water.",
+        "audioText": "[softly] So the ocean is not different water. It is more water."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. More water gives light a longer path. The longer the path, the more the red light gets removed, and the more blue the water can appear."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Obvious suspect: the ocean is just reflecting the sky.",
+        "audioText": "[orderly] Obvious suspect: the ocean is just reflecting the sky."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Good suspect, incomplete answer. The sky can make the surface look bluer, and clouds can make it look grayer, but water itself absorbs red light. The blue is not just a mirror trick."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Second suspect: every ocean is always blue.",
+        "audioText": "[testing] Second suspect: every ocean is always blue."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Also no. The Library of Congress notes that ocean color changes with particles in the water, depth, and skylight."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Mud, sand, plankton, and algae can make water look green, brown, red, or cloudy. Shallow tropical water may look turquoise because sunlight bounces off bright sand below."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the best comparison is a glass of clear water and a deep stretch of clear ocean water.",
+        "audioText": "[carefully] So the best comparison is a glass of clear water and a deep stretch of clear ocean water."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. The grown-up idea is path length."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "The child version is: a little water is too thin to show its color, but a lot of water gives light enough room to be changed.",
+        "audioText": "[satisfied] The child version is: a little water is too thin to show its color, but a lot of water gives light enough room to be changed."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. The reusable question is: when something looks different at a large scale, is it really a different thing, or is the same tiny effect finally big enough to see?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "NOAA Ocean Service, Why Is the Ocean Blue?",
+        "url": "https://oceanservice.noaa.gov/facts/oceanblue.html",
+        "note": "Used for the core explanation that ocean water looks blue because water absorbs colors in the red part of the light spectrum."
+      },
+      {
+        "label": "U.S. Geological Survey, Water Color",
+        "url": "https://www.usgs.gov/water-science-school/science/water-color",
+        "note": "Used for the point that pure water has a slight blue tint and that dissolved and suspended materials can change water color."
+      },
+      {
+        "label": "Library of Congress, Why Is the Ocean Blue?",
+        "url": "https://www.loc.gov/everyday-mysteries/categories/physics/item/why-is-the-ocean-blue/",
+        "note": "Used for the caveat that ocean color varies with particles in the water, depth, and skylight."
+      },
+      {
+        "label": "Woods Hole Oceanographic Institution, Why Is the Ocean Blue?",
+        "url": "https://www.whoi.edu/ocean-learning-hub/ocean-facts/why-is-the-ocean-blue/",
+        "note": "Used for supporting context on absorption, scattering, particles, and why shallow clear water can look turquoise."
+      }
+    ]
+  },
+  {
+    "id": "soap-bubbles-oil-slicks-rainbow-colors",
+    "title": "Why Do Soap Bubbles and Oil Slicks Show Rainbow Colors?",
+    "author": "Comparative mystery",
+    "lengthLabel": "investigation",
+    "focus": "No colored dye is needed: a film so thin you can almost miss it can split white light into shifting colors.",
+    "framing": "Soap bubbles and oil slicks are made from very different materials, but both can shimmer with rainbow colors. Why do two thin, mostly transparent films create colors that are not painted on?",
+    "comparisonPoints": [
+      {
+        "label": "Same color mystery",
+        "detail": "Soap bubbles and oil slicks can show bright bands of color even when there is no rainbow dye in the film."
+      },
+      {
+        "label": "Same thin-film shape",
+        "detail": "Both create very thin layers with a front surface and a back surface that can reflect light."
+      },
+      {
+        "label": "Same changing thickness",
+        "detail": "The film is not exactly the same thickness everywhere, so different places can strengthen different colors."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "OpenStax by Rice University explains that the bright colors in oil slicks and sunlit soap bubbles are caused by interference between light waves reflected from thin films."
+    },
+    "audioSrc": "audio/natural-experiments/soap-bubbles-oil-slicks-rainbow-colors.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery. A soap bubble floats through the air, and suddenly it flashes pink, green, gold, blue, and purple. An oil slick on a wet road can do something similar.",
+      "But there is no rainbow paint hiding inside the bubble. There is no tiny box of crayons dissolved in the oil.",
+      "So where do the colors come from?",
+      "This is a strong comparison because soap and oil are not the same substance, but they make the same kind of thin shape. Each one forms a film: a layer with a front surface and a back surface. Light can bounce off both surfaces.",
+      "OpenStax by Rice University explains that the bright colors in oil slicks and sunlit soap bubbles are caused by interference. That means light waves overlap. Sometimes they strengthen each other. Sometimes they cancel each other.",
+      "For a kid, try this: imagine two jump ropes making waves. If the high parts arrive together, the wave gets bigger. If a high part meets a low part, they flatten each other. Light can behave like that too.",
+      "In a soap bubble or oil slick, one bit of light reflects from the top of the film. Another bit goes through the film, reflects from the bottom, and comes back out. Because the two bits traveled slightly different distances, they may meet out of step.",
+      "Here is the key: different colors of light have different wavelengths. A film that strengthens blue light might cancel red light. A slightly thicker part might strengthen green or gold instead.",
+      "That is why the colors swirl and shift. The film is not perfectly even. Gravity, air, motion, and draining liquid make some parts thinner and some parts thicker. The thickness map becomes a color map.",
+      "The Exploratorium notes that the thinnest soap film can even look black, because the reflected colors cancel. That is often a sign the bubble is close to popping.",
+      "So the easy guess is wrong: the colors are not dyes. They are not little rainbows trapped inside. They are white light being sorted by a film that is only a tiny distance thick.",
+      "The reusable question is: when color appears without pigment, could hidden structure be choosing which light waves survive?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A soap bubble floats through the air, and suddenly it flashes pink, green, gold, blue, and purple. An oil slick on a wet road can do something similar."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "I object to oil slicks being beautiful. It feels unfair.",
+        "audioText": "[dryly] I object to oil slicks being beautiful. It feels unfair."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It does. But the physics is very elegant."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "There is no rainbow paint inside the bubble, is there?",
+        "audioText": "[curious] There is no rainbow paint inside the bubble, is there?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "No rainbow paint. No tiny box of crayons dissolved in the oil."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Then the color is coming from the shape of the thing, not the stuff of the thing.",
+        "audioText": "[precise] Then the color is coming from the shape of the thing, not the stuff of the thing."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Good. This is a strong comparison because soap and oil are not the same substance, but they make the same kind of thin shape."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Each one forms a film: a layer with a front surface and a back surface. Light can bounce off both surfaces."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "OpenStax by Rice University explains that the bright colors in oil slicks and sunlit soap bubbles are caused by interference."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Interference means the light waves are bothering each other?",
+        "audioText": "[testing the word] Interference means the light waves are bothering each other?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "In a way, yes. Light waves overlap. Sometimes they strengthen each other. Sometimes they cancel each other."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Imagine two jump ropes making waves. If the high parts arrive together, the wave gets bigger. If a high part meets a low part, they flatten each other."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So light can arrive together or out of step.",
+        "audioText": "[thoughtfully] So light can arrive together or out of step."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. In a soap bubble or oil slick, one bit of light reflects from the top of the film. Another bit goes through the film, reflects from the bottom, and comes back out."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Because those two bits traveled slightly different distances, they may meet out of step."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "And different colors have different wavelengths.",
+        "audioText": "[satisfied] And different colors have different wavelengths."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. A film that strengthens blue light might cancel red light. A slightly thicker part might strengthen green or gold instead."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the thickness map becomes a color map.",
+        "audioText": "[softly] So the thickness map becomes a color map."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. That is why the colors swirl and shift. The film is not perfectly even. Gravity, air, motion, and draining liquid make some parts thinner and some parts thicker."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The Exploratorium notes that the thinnest soap film can even look black, because the reflected colors cancel. That is often a sign the bubble is close to popping."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "A dramatic warning from physics.",
+        "audioText": "[dryly pleased] A dramatic warning from physics."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. The colors are not dyes. They are not little rainbows trapped inside. They are white light being sorted by a film that is only a tiny distance thick."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The reusable question is: when color appears without pigment, could hidden structure be choosing which light waves survive?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "OpenStax by Rice University, College Physics: Thin Film Interference",
+        "url": "https://openstax.org/books/college-physics/pages/27-7-thin-film-interference",
+        "note": "Used for the core explanation that bright colors in oil slicks and sunlit soap bubbles are caused by interference in thin films."
+      },
+      {
+        "label": "Exploratorium, Bubble Colors",
+        "url": "https://dev-annex.exploratorium.edu/ronh/bubbles/bubble_colors.html",
+        "note": "Used for the soap-bubble explanation, including reflection, interference, film thickness, and the black appearance of very thin films."
+      },
+      {
+        "label": "Exploratorium, Science Activity: See Colors in Bubbles",
+        "url": "https://dev-annex.exploratorium.edu/science-explorer/bub_dome.html",
+        "note": "Used for the child-facing explanation that bubble colors come from white light and depend on film thickness."
+      },
+      {
+        "label": "The Physics Classroom, Thin Film Interference",
+        "url": "https://www.physicsclassroom.com/class/light/Lesson-1/Thin-Film-Interference",
+        "note": "Used for supporting examples of soap films and oil films creating colors through interference."
+      }
+    ]
   }
 ]
