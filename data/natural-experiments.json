@@ -2810,5 +2810,255 @@
         "note": "Used for supporting examples of soap films and oil films creating colors through interference."
       }
     ]
+  },
+  {
+    "id": "high-heels-menswear-womenswear",
+    "title": "Why Did High Heels Begin as Menswear but Become Associated with Women?",
+    "author": "Comparative mystery",
+    "lengthLabel": "investigation",
+    "focus": "The same raised shoe moved from riding and elite masculine status into a symbol of feminine fashion.",
+    "framing": "High heels are now often treated as women's fashion, but museum histories trace important parts of the heel's story through male riders, soldiers, kings, nobles, cowboys, bikers, rock stars, and designers. How did one object change social meaning so dramatically?",
+    "comparisonPoints": [
+      {
+        "label": "Same object family",
+        "detail": "A heel raises the back of the foot, but that raised shape can be attached to riding boots, court shoes, cowboy boots, platform shoes, or stilettos."
+      },
+      {
+        "label": "Same body effect",
+        "detail": "Heels change height, posture, stride, and balance, so they can signal power, danger, elegance, impracticality, display, or performance depending on the setting."
+      },
+      {
+        "label": "Same visible signal",
+        "detail": "Shoes are public objects: other people can see them immediately, which makes them useful for status, gender, and group signaling."
+      }
+    ],
+    "reveal": {
+      "label": "The surprise",
+      "detail": "Bata Shoe Museum traces men's heeled footwear from seventeenth-century Persian riding shoes and European elite fashion through military boots, cowboy boots, biker boots, Beatle boots, platform shoes, and couture."
+    },
+    "audioSrc": "audio/natural-experiments/high-heels-menswear-womenswear.mp3",
+    "scriptParagraphs": [
+      "Here is the mystery. Today, if someone says high heels, many people picture women's fashion: party shoes, formal shoes, red carpets, office dress codes, or shoes that look glamorous but painful.",
+      "But heels were not born with that meaning.",
+      "Bata Shoe Museum traces men's heeled footwear from the early sixteen hundreds to today. The museum points to Persian riding shoes from the seventeenth century, European elite men's heels, military boots, cowboy boots, biker boots, Beatle boots, platform shoes, and modern couture.",
+      "So the question is not: who invented fancy women's shoes? The better question is: how did a raised shoe travel from riding and male status into a strongly feminine fashion signal?",
+      "The first clue is function. A heel can help a rider keep a foot in the stirrup. That is why riding boots and cowboy boots still have heels. In that setting, the heel says: horse, saddle, control, movement.",
+      "Then the clue changes. When European elites adopted heels, the shoe became a status signal. A raised heel could make a nobleman taller and more imposing. It also said something very expensive: I do not spend my day doing muddy practical labor.",
+      "So we test the easy guesses. Did heels become feminine because women naturally like painful shoes? No. Did men never care about height, display, or decoration? Also no. Earlier elite men wore bright colors, lace, wigs, embroidery, and heels. Did heels simply stop existing for men? No. They stayed in riding boots, military boots, cowboy boots, biker boots, rock boots, and some designer fashion.",
+      "The stronger clue is that fashion meanings can flip when the social job changes.",
+      "By the late eighteenth and nineteenth centuries, Western ideas of respectable masculinity moved toward plainer, darker, more practical clothing. Men who wanted to look serious increasingly avoided the ornate court style. A decorative heel could start to look old-fashioned, aristocratic, or unserious for men.",
+      "Women's fashion moved through a different path. High heels became tied to delicacy, elegance, sexuality, display, and later to formal femininity. The same height that once said nobleman on horseback could later say fashionable woman in public.",
+      "That does not mean every woman loves heels, or that heels are comfortable, or that men never wear them. The honest point is stranger: the object kept changing jobs.",
+      "In a stirrup, the heel helps hold the foot. At court, it announces rank. In a cowboy boot, it belongs to riding and ruggedness. On a rock stage, it can look rebellious. In a stiletto, it often signals glamour and femininity.",
+      "The final question is: when an object barely changes, what has to change around it before the same shape means something completely different?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the mystery.",
+        "audioText": "[warmly] Here is the mystery."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Today, if someone says high heels, many people picture women's fashion: party shoes, formal shoes, red carpets, office dress codes, or shoes that look glamorous but painful."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Glamorous but painful is a suspicious combination.",
+        "audioText": "[dryly] Glamorous but painful is a suspicious combination."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It is. But heels were not born with that meaning."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the shoe changed its story.",
+        "audioText": "[softly] So the shoe changed its story."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. Bata Shoe Museum traces men's heeled footwear from the early sixteen hundreds to today."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The museum points to Persian riding shoes from the seventeenth century, European elite men's heels, military boots, cowboy boots, biker boots, Beatle boots, platform shoes, and modern couture."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That is not a tiny footnote. That is a whole shoe parade.",
+        "audioText": "[incredulous] That is not a tiny footnote. That is a whole shoe parade."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. So the question is not: who invented fancy women's shoes?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The better question is: how did a raised shoe travel from riding and male status into a strongly feminine fashion signal?"
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Same shape, different meaning.",
+        "audioText": "[thoughtfully] Same shape, different meaning."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "The first clue is function. A heel can help a rider keep a foot in the stirrup. That is why riding boots and cowboy boots still have heels."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So in that setting the heel says: horse, saddle, control, do not fall off.",
+        "audioText": "[crisp] So in that setting the heel says: horse, saddle, control, do not fall off."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. Then the clue changes. When European elites adopted heels, the shoe became a status signal."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A raised heel could make a nobleman taller and more imposing. It also said something very expensive: I do not spend my day doing muddy practical labor."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Like wearing shoes that announce you have other people to do the messy work.",
+        "audioText": "[quietly] Like wearing shoes that announce you have other people to do the messy work."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. Now we test the easy guesses."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Guess one: women naturally like painful shoes.",
+        "audioText": "[skeptical] Guess one: women naturally like painful shoes."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "No. Too simple, and not historical enough."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Guess two: men never cared about height, decoration, or showing off.",
+        "audioText": "[even more skeptical] Guess two: men never cared about height, decoration, or showing off."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Also no. Earlier elite men wore bright colors, lace, wigs, embroidery, and heels."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "The past was much sparklier than people pretend.",
+        "audioText": "[softly amused] The past was much sparklier than people pretend."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It was. And guess three: heels simply stopped existing for men."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "No. They stayed in riding boots, military boots, cowboy boots, biker boots, rock boots, and some designer fashion."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the heel did not vanish. Its meaning split.",
+        "audioText": "[precise] So the heel did not vanish. Its meaning split."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. The stronger clue is that fashion meanings can flip when the social job changes."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "By the late eighteenth and nineteenth centuries, Western ideas of respectable masculinity moved toward plainer, darker, more practical clothing."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Men who wanted to look serious increasingly avoided the ornate court style. A decorative heel could start to look old-fashioned, aristocratic, or unserious for men."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the same shoe that once said powerful could start saying the wrong kind of powerful.",
+        "audioText": "[thoughtful] So the same shoe that once said powerful could start saying the wrong kind of powerful."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes. Women's fashion moved through a different path. High heels became tied to delicacy, elegance, sexuality, display, and later to formal femininity."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "That is the flip. The object is similar, but the social caption changed.",
+        "audioText": "[satisfied] That is the flip. The object is similar, but the social caption changed."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. In a stirrup, the heel helps hold the foot. At court, it announces rank. In a cowboy boot, it belongs to riding and ruggedness. On a rock stage, it can look rebellious. In a stiletto, it often signals glamour and femininity."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "The shoe keeps changing jobs.",
+        "audioText": "[softly] The shoe keeps changing jobs."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. The final question is: when an object barely changes, what has to change around it before the same shape means something completely different?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Bata Shoe Museum, Standing Tall: The Curious History of Men in Heels",
+        "url": "https://batashoemuseum.ca/standing-tall/",
+        "note": "Used for the exhibition framing of men's heeled footwear from the early seventeenth century to today, including Persian riding shoes, European elite men's heels, military boots, cowboy boots, biker boots, Beatle boots, platform shoes, and couture."
+      },
+      {
+        "label": "Swiss National Museum, High Heels: From the Battlefield to the Height of Fashion",
+        "url": "https://blog.nationalmuseum.ch/en/2025/08/high-heels-from-the-battlefield-to-the-height-of-fashion/",
+        "note": "Used for the riding and cavalry function of heels, Persian-to-European transmission, and Baroque elite adoption."
+      },
+      {
+        "label": "PBS Origin of Everything, When Men Wore High Heels",
+        "url": "https://www.pbs.org/video/when-men-wore-high-heels-zgvmob/",
+        "note": "Used for the broad historical explanation that heels once signaled male martial and aristocratic status before becoming associated primarily with women's fashion."
+      },
+      {
+        "label": "ABC News, History of the High Heel",
+        "url": "https://www.abc.net.au/news/2017-11-13/why-do-we-wear-high-heeled-shoes/9135936",
+        "note": "Used for the status-symbol role of heels in European court culture and the caution that heels have carried different social meanings across time."
+      }
+    ]
   }
 ]
