@@ -1,5 +1,279 @@
 [
   {
+    "id": "apollo-11-artemis-ii",
+    "title": "Why Is Going Back to the Moon Still So Hard?",
+    "author": "Comparative mystery",
+    "lengthLabel": "investigation",
+    "focus": "Apollo 11 landed people on the Moon; Artemis II brought a new crew around it. Why did returning still require years of work and billions of dollars?",
+    "framing": "Compare the completed Apollo 11 landing of July 1969 with the completed Artemis II crewed flyby of April 2026. Both took people to the Moon and home, but they delivered different capabilities. Facts checked October 31, 2026.",
+    "comparisonPoints": [
+      {
+        "label": "A shared engineering job",
+        "detail": "Both missions needed a heavy rocket, life support, deep-space navigation, communications, and a heat shield for the return to Earth. Apollo 11 carried three people; Artemis II carried four."
+      },
+      {
+        "label": "Different accomplishments",
+        "detail": "Apollo 11 entered lunar orbit, landed two astronauts, and reunited them with the third before returning home. Artemis II tested Orion with a crew on a lunar flyby; it did not enter lunar orbit or attempt a landing."
+      },
+      {
+        "label": "Preparation versus flight time",
+        "detail": "The 1961 national landing commitment preceded Apollo 11 by about eight years. The 2011 SLS announcement preceded its first crewed flight, Artemis II, by about fifteen. These are different starting milestones, both with earlier work behind them. The flights themselves lasted about eight and nine days."
+      },
+      {
+        "label": "Read the price labels",
+        "detail": "Apollo 11 direct costs were about $3 billion in 2019 dollars in the Planetary Society reconstruction. A 2021 NASA audit forecast $4.1 billion per early SLS/Orion launch. Neither includes prior development, and their price years and included hardware differ. The latter is not Artemis II’s final bill; dividing these figures would mislead."
+      },
+      {
+        "label": "What could explain the gap?",
+        "detail": "Early funding, production continuity, technical faults, and program management all matter. Audits identify specific problems, but this historical comparison cannot isolate the effect of any one cause."
+      },
+      {
+        "label": "Future landings are a separate question",
+        "detail": "As checked October 31, 2026, NASA plans an Artemis III Earth-orbit demonstration in 2027 and targets the first Artemis landing, Artemis IV, for early 2028. Those are future plans, not achievements of Artemis II."
+      }
+    ],
+    "reveal": {
+      "label": "Better tools do not preserve a working program by themselves",
+      "detail": "Apollo 11 accomplished a landing after an approximately eight-year national push. Artemis II restored crewed lunar travel about fifteen years after its rocket was announced. Funding, factories, teams, testing, and decisions help explain the puzzle; the comparison alone does not establish that modern missions cost more or that engineers forgot the science."
+    },
+    "audioSrc": "audio/natural-experiments/apollo-11-artemis-ii.mp3",
+    "scriptParagraphs": [
+      "In nineteen sixty-nine, three astronauts flew to the Moon. Two climbed down onto its surface. All three came home. In twenty twenty-six, four astronauts flew around the Moon and came home, without landing. Why is returning still such a long, expensive job?",
+      "We have better computers now. And we already know the way.",
+      "That is our puzzle: Apollo Eleven versus Artemis Two. Both needed a powerful rocket, a cabin that kept people alive, navigation across deep space, and protection from the heat of returning to Earth.",
+      "But the older trip did something extra. It left footprints.",
+      "Exactly. We are comparing journeys with a shared goal, but different tasks. Artemis Two tested its spacecraft with people aboard. It was never supposed to land.",
+      "Here is the striking timeline. Kennedy announced the landing goal in May nineteen sixty-one. Apollo Eleven landed in July nineteen sixty-nine: about eight years. NASA announced the rocket used by Artemis in twenty eleven. Its first crewed flight came in April twenty twenty-six: about fifteen years later.",
+      "So the clock starts at a promise for one, and a rocket decision for the other. That matters.",
+      "It does. Both had earlier work behind them. These are clearly marked milestones, not identical starting lines. And years of preparation are different from days in space: both trips lasted a little over a week.",
+      "First guess: maybe everything was just cheaper back then.",
+      "We must adjust old dollars for changing prices. The Planetary Society puts Apollo Eleven's direct mission cost at roughly three billion in twenty nineteen dollars. That includes its rocket, spacecraft, lander, experiments, and operations. Earlier development is separate.",
+      "NASA's auditors, writing in twenty twenty-one, forecast about four point one billion dollars to produce and launch each early Artemis rocket and Orion spacecraft. That excluded earlier development and a lunar lander. It was a forecast, not Artemis Two's final bill.",
+      "Different price years. Different things included. We cannot just divide those numbers and announce a winner.",
+      "Right. Apollo was an enormous investment. Its spending peaked before the first landing, during a race with the Soviet Union. Money arrived early enough to build and test many things together. For the newer rocket, government auditors warned that early schedules and available funding did not match.",
+      "Second guess: did we forget how to go?",
+      "We kept the science. But NASA's history records the decision to stop ordering more Saturn Five rockets. A drawing cannot weld a tank, train a new team, or make a closed production line run again. Knowing how something worked is different from having people and equipment ready to build it.",
+      "So a faster computer helps calculate the flight. It cannot manufacture the rocket by itself.",
+      "Third guess: perhaps the new trip was harder. Apollo Eleven needed a lander, a surface takeoff, and a meeting between spacecraft near the Moon. Artemis Two did none of those. Future Artemis landings add other demands, but they cannot explain every delay to this flyby.",
+      "Then what actually held this flight up?",
+      "Auditors identified real problems with Orion's heat shield, batteries, and circuits that control its air-cleaning equipment. Engineers had to investigate and address them. Apollo also faced terrible failures: three astronauts died in the Apollo One ground-test fire, followed by investigation and redesign.",
+      "Checking a dangerous fault is useful work. But that does not mean every extra year was unavoidable.",
+      "Exactly. Audits also found weak cost tracking and optimistic planning. Fixing a spacecraft and improving how a program is managed are both engineering work.",
+      "This is a historical comparison, not a controlled natural experiment. Funding, designs, teams, rules, and political goals changed together. We cannot use two missions to prove that one change caused the entire difference.",
+      "So the Moon stayed there. The ability to reach it had to be kept working.",
+      "Here is the question to carry away: when we say we still know how to do something, do we mean the instructions survive, or that people can actually build it, test it, and make it work again?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "In nineteen sixty-nine, three astronauts flew to the Moon. Two climbed down onto its surface. All three came home. In twenty twenty-six, four astronauts flew around the Moon and came home, without landing. Why is returning still such a long, expensive job?"
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "We have better computers now. And we already know the way."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is our puzzle: Apollo Eleven versus Artemis Two. Both needed a powerful rocket, a cabin that kept people alive, navigation across deep space, and protection from the heat of returning to Earth."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "But the older trip did something extra. It left footprints."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. We are comparing journeys with a shared goal, but different tasks. Artemis Two tested its spacecraft with people aboard. It was never supposed to land."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the striking timeline. Kennedy announced the landing goal in May nineteen sixty-one. Apollo Eleven landed in July nineteen sixty-nine: about eight years. NASA announced the rocket used by Artemis in twenty eleven. Its first crewed flight came in April twenty twenty-six: about fifteen years later."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So the clock starts at a promise for one, and a rocket decision for the other. That matters."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "It does. Both had earlier work behind them. These are clearly marked milestones, not identical starting lines. And years of preparation are different from days in space: both trips lasted a little over a week."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "First guess: maybe everything was just cheaper back then."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "We must adjust old dollars for changing prices. The Planetary Society puts Apollo Eleven's direct mission cost at roughly three billion in twenty nineteen dollars. That includes its rocket, spacecraft, lander, experiments, and operations. Earlier development is separate."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "NASA's auditors, writing in twenty twenty-one, forecast about four point one billion dollars to produce and launch each early Artemis rocket and Orion spacecraft. That excluded earlier development and a lunar lander. It was a forecast, not Artemis Two's final bill."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Different price years. Different things included. We cannot just divide those numbers and announce a winner."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Right. Apollo was an enormous investment. Its spending peaked before the first landing, during a race with the Soviet Union. Money arrived early enough to build and test many things together. For the newer rocket, government auditors warned that early schedules and available funding did not match."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Second guess: did we forget how to go?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "We kept the science. But NASA's history records the decision to stop ordering more Saturn Five rockets. A drawing cannot weld a tank, train a new team, or make a closed production line run again. Knowing how something worked is different from having people and equipment ready to build it."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "So a faster computer helps calculate the flight. It cannot manufacture the rocket by itself."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Third guess: perhaps the new trip was harder. Apollo Eleven needed a lander, a surface takeoff, and a meeting between spacecraft near the Moon. Artemis Two did none of those. Future Artemis landings add other demands, but they cannot explain every delay to this flyby."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "Then what actually held this flight up?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Auditors identified real problems with Orion's heat shield, batteries, and circuits that control its air-cleaning equipment. Engineers had to investigate and address them. Apollo also faced terrible failures: three astronauts died in the Apollo One ground-test fire, followed by investigation and redesign."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "Checking a dangerous fault is useful work. But that does not mean every extra year was unavoidable."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Exactly. Audits also found weak cost tracking and optimistic planning. Fixing a spacecraft and improving how a program is managed are both engineering work."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "This is a historical comparison, not a controlled natural experiment. Funding, designs, teams, rules, and political goals changed together. We cannot use two missions to prove that one change caused the entire difference."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "So the Moon stayed there. The ability to reach it had to be kept working."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Here is the question to carry away: when we say we still know how to do something, do we mean the instructions survive, or that people can actually build it, test it, and make it work again?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "NASA, Apollo 11 mission overview",
+        "url": "https://www.nasa.gov/missions/apollo/apollo-11/apollo-11-mission-overview/",
+        "note": "Mission dates, crew, landing, rendezvous, surface stay, and the May 1961 commitment."
+      },
+      {
+        "label": "NASA, Artemis II mission",
+        "url": "https://www.nasa.gov/mission/artemis-ii/",
+        "note": "Completed flyby, four crew, April 2026 dates, and flight duration."
+      },
+      {
+        "label": "NASA, Apollo 8",
+        "url": "https://www.nasa.gov/mission/apollo-8/",
+        "note": "Distinguishes the first crewed lunar journey and lunar orbit from Apollo 11's first landing."
+      },
+      {
+        "label": "NASA, Marshall at 65: the 2010s",
+        "url": "https://www.nasa.gov/marshall-at-65-the-progressive-2010s/",
+        "note": "September 14, 2011 SLS announcement. Used only for that historical milestone; later forecasts embedded in this historical page are superseded."
+      },
+      {
+        "label": "NASA OIG, Orion Contracts and International Agreement, 2020",
+        "url": "https://oig.nasa.gov/docs/IG-20-018.pdf",
+        "note": "Original 2006 Orion development contract and inherited Constellation work."
+      },
+      {
+        "label": "The Planetary Society, Apollo 11",
+        "url": "https://www.planetary.org/space-missions/apollo-11",
+        "note": "Original compilation from NASA's 1975 History of Manned Space Flight; $355 million direct mission estimate and approximately $3 billion in 2019 dollars using NNSI."
+      },
+      {
+        "label": "The Planetary Society, Cost of Apollo",
+        "url": "https://www.planetary.org/space-policy/cost-of-apollo",
+        "note": "Original historical-budget reconstruction, updated inflation table, spending profile, and link to the peer-reviewed analysis. Full-program figures must not be presented as Apollo 11's bill."
+      },
+      {
+        "label": "NASA OIG, Management of the Artemis Missions, 2021",
+        "url": "https://oig.nasa.gov/wp-content/uploads/2024/02/ig-22-003.pdf",
+        "note": "Printed pages 21–23: $93 billion historical projection and $4.1 billion production/operations estimate, including their scope and exclusions."
+      },
+      {
+        "label": "GAO, SLS resources and requirements, 2014",
+        "url": "https://www.gao.gov/products/gao-14-631",
+        "note": "Early mismatch between resources, confidence levels, and launch schedule; not an assertion that all later delay had one cause."
+      },
+      {
+        "label": "NASA, Cancellation of Apollo 20",
+        "url": "https://www.nasa.gov/history/50-years-ago-nasa-cancels-apollo-20-mission/",
+        "note": "End of further Saturn V orders and subsequent budget-driven mission cancellations."
+      },
+      {
+        "label": "NASA OIG, Artemis II Readiness, 2024",
+        "url": "https://oig.nasa.gov/wp-content/uploads/2024/05/ig-24-011.pdf",
+        "note": "Heat-shield behavior, electrical and battery defects, life-support circuitry, and schedule implications. The report's older title says lunar orbit; the completed Artemis II mission was a flyby."
+      },
+      {
+        "label": "NASA, Apollo 1",
+        "url": "https://www.nasa.gov/mission/apollo-1/",
+        "note": "Three deaths during a ground test, investigation, redesign, and postponement of crewed launches."
+      },
+      {
+        "label": "GAO, SLS Cost Transparency, 2023",
+        "url": "https://www.gao.gov/products/gao-23-105609",
+        "note": "Missing recurring-production and mission-level cost tracking."
+      },
+      {
+        "label": "GAO, Assessments of Major Projects, 2026",
+        "url": "https://files.gao.gov/reports/GAO-26-108556/index.html",
+        "note": "Contemporary cost-estimate limitations and changing Artemis plans; findings dated to the report's review period."
+      },
+      {
+        "label": "NASA, October 23, 2026 Artemis update",
+        "url": "https://www.nasa.gov/blogs/missions/2026/10/23/nasa-shares-artemis-acceleration-plans-for-moon-missions/",
+        "note": "Earth-orbit demonstration planned for 2027 and first Artemis landing targeted for early 2028; future surface-stay objective."
+      },
+      {
+        "label": "Artemis IV mission",
+        "url": "https://www.nasa.gov/mission/artemis-iv/",
+        "note": "Earth-orbit demonstration planned for 2027 and first Artemis landing targeted for early 2028; future surface-stay objective."
+      },
+      {
+        "label": "NASA OIG, Human Landing System Contracts, March 2026",
+        "url": "https://oig.nasa.gov/audits/nasas-management-of-the-human-landing-system-contracts/",
+        "note": "Contract-cost control alongside technical and schedule challenges. This concerns future landings, not Artemis II's performed operations."
+      }
+    ]
+  },
+  {
     "id": "korea-japan-christianity",
     "title": "Why Did Christianity Grow Differently in South Korea and Japan?",
     "author": "Natural experiment",

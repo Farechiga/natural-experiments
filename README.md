@@ -27,6 +27,8 @@ secrets.
 
 ## Comparative Mysteries Included
 
+- Apollo 11 and Artemis II, `Why Is Going Back to the Moon Still So Hard?` ([comparison and source notes](docs/investigations/apollo-11-artemis-ii.md))
+
 - Japan and South Korea, `Why Did Christianity Grow Differently in South Korea and Japan?`
 - New York and Los Angeles, `Why Did New York Grow Around Trains While Los Angeles Grew Around Cars?`
 - Athens and Sparta, `Why Did Athens and Sparta Become So Different?`
@@ -59,6 +61,7 @@ The web player expects:
 - `audio/farmer-boy.mp3`
 - `audio/city-of-ember.mp3`
 - `audio/people-of-sparks.mp3`
+- `audio/natural-experiments/apollo-11-artemis-ii.mp3`
 - `audio/natural-experiments/korea-japan-christianity.mp3`
 - `audio/natural-experiments/new-york-los-angeles-transit-cars.mp3`
 - `audio/natural-experiments/athens-sparta-societies.mp3`

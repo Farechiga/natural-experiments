@@ -17,6 +17,7 @@ Expected files:
 - `farmer-boy.mp3`
 - `city-of-ember.mp3`
 - `people-of-sparks.mp3`
+- `natural-experiments/apollo-11-artemis-ii.mp3`
 - `natural-experiments/korea-japan-christianity.mp3`
 - `natural-experiments/new-york-los-angeles-transit-cars.mp3`
 - `natural-experiments/athens-sparta-societies.mp3`
