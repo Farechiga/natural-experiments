@@ -15,6 +15,7 @@ Expected files:
 - `warriors-into-the-wild.mp3`
 - `percy-jackson-lightning-thief.mp3`
 - `farmer-boy.mp3`
+- `city-of-ember.mp3`
 - `natural-experiments/korea-japan-christianity.mp3`
 - `natural-experiments/new-york-los-angeles-transit-cars.mp3`
 - `natural-experiments/athens-sparta-societies.mp3`

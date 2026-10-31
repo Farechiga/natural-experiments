@@ -29,6 +29,7 @@ on:
           - mixed-up-files-frankweiler
           - warriors-into-the-wild
           - percy-jackson-lightning-thief
+          - city-of-ember
           - korea-japan-christianity
       voice_id:
         description: ElevenLabs voice ID

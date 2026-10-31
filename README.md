@@ -22,6 +22,7 @@ secrets.
 - Erin Hunter, `Warriors: Into the Wild`
 - Rick Riordan, `Percy Jackson and the Olympians: The Lightning Thief`
 - Laura Ingalls Wilder, `Farmer Boy`
+- Jeanne DuPrau, `The City of Ember` (book one)
 
 ## Comparative Mysteries Included
 
@@ -55,6 +56,7 @@ The web player expects:
 - `audio/warriors-into-the-wild.mp3`
 - `audio/percy-jackson-lightning-thief.mp3`
 - `audio/farmer-boy.mp3`
+- `audio/city-of-ember.mp3`
 - `audio/natural-experiments/korea-japan-christianity.mp3`
 - `audio/natural-experiments/new-york-los-angeles-transit-cars.mp3`
 - `audio/natural-experiments/athens-sparta-societies.mp3`
