@@ -19,6 +19,7 @@
     "audio:percy": "node scripts/generate-audio.mjs --story percy-jackson-lightning-thief",
     "audio:farmer-boy": "node scripts/generate-audio.mjs --story farmer-boy",
     "audio:ember": "node scripts/generate-audio.mjs --story city-of-ember",
+    "audio:sparks": "node scripts/generate-audio.mjs --story people-of-sparks",
     "audio:natural:all": "node scripts/generate-audio.mjs --collection natural-experiments --story all",
     "audio:korea-japan-christianity": "node scripts/generate-audio.mjs --collection natural-experiments --story korea-japan-christianity",
     "audio:ny-la-transit-cars": "node scripts/generate-audio.mjs --collection natural-experiments --story new-york-los-angeles-transit-cars",

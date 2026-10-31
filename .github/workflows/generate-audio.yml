@@ -30,6 +30,7 @@ on:
           - warriors-into-the-wild
           - percy-jackson-lightning-thief
           - city-of-ember
+          - people-of-sparks
           - korea-japan-christianity
       voice_id:
         description: ElevenLabs voice ID

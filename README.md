@@ -23,6 +23,7 @@ secrets.
 - Rick Riordan, `Percy Jackson and the Olympians: The Lightning Thief`
 - Laura Ingalls Wilder, `Farmer Boy`
 - Jeanne DuPrau, `The City of Ember` (book one)
+- Jeanne DuPrau, `The People of Sparks` (book two)
 
 ## Comparative Mysteries Included
 
@@ -57,6 +58,7 @@ The web player expects:
 - `audio/percy-jackson-lightning-thief.mp3`
 - `audio/farmer-boy.mp3`
 - `audio/city-of-ember.mp3`
+- `audio/people-of-sparks.mp3`
 - `audio/natural-experiments/korea-japan-christianity.mp3`
 - `audio/natural-experiments/new-york-los-angeles-transit-cars.mp3`
 - `audio/natural-experiments/athens-sparta-societies.mp3`

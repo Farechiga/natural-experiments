@@ -1724,5 +1724,112 @@
         "note": "Background for the question about AI dependence. This survey reports associations and self-reported effort, not proof of long-term skill loss."
       }
     ]
+  },
+  {
+    "id": "people-of-sparks",
+    "title": "The People of Sparks",
+    "author": "Jeanne DuPrau",
+    "lengthLabel": "dialogue intro",
+    "focus": "Ember, book two: Lina and Doon face a fragile welcome, scarce food, and the temptation to turn neighbours into enemies.",
+    "audioSrc": "audio/people-of-sparks.mp3",
+    "scriptParagraphs": [
+      "Imagine your village has just enough food to get by. Then hundreds of hungry strangers arrive. You want to help. But what happens when your own children get hungry?",
+      "That is Sparks' problem. In The People of Sparks, Jeanne DuPrau's second Ember book, Lina and Doon have reached the surface. Their people need a home.",
+      "There is sunlight. There are trees. But food must be grown. A welcome cannot make a harvest bigger overnight. And being rescued can start to feel like being a burden.",
+      "The village offers six months of help. The Emberites must learn to survive on their own.",
+      "Lina still dreams of a beautiful city beyond the village. Doon wants his people treated fairly, and their work respected.",
+      "A confident boy named Tick speaks up for them. Doon is drawn to him. Someone understands why he is angry.",
+      "But feeling wronged does not tell you who actually did something wrong. Mysterious acts of damage feed accusations. People begin counting every insult. Getting even starts to sound reasonable.",
+      "When you are hurt, stopping first can feel like letting them win. And each side can explain why it is right. The hands that grow food and build houses can also tear a community apart.",
+      "Can Lina and Doon protect their people without deciding that everyone else is the enemy?"
+    ],
+    "dialogueSegments": [
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Imagine your village has just enough food to get by. Then hundreds of hungry strangers arrive."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "You want to help. But what happens when your own children get hungry?",
+        "audioText": "[concerned] You want to help. But what happens when your own children get hungry?"
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "That is Sparks' problem, Audrey. In The People of Sparks, Jeanne DuPrau's second Ember book, Lina and Doon have reached the surface. Their people need a home."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "There is sunlight. There are trees. But food must be grown. A welcome cannot make a harvest bigger overnight."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "And being rescued can start to feel like being a burden.",
+        "audioText": "[thoughtfully] And being rescued can start to feel like being a burden."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Yes, Paxten. The village offers six months of help. The Emberites must learn to survive on their own."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Lina still dreams of a beautiful city beyond the village. Doon wants his people treated fairly, and their work respected."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "A confident boy named Tick speaks up for them. Doon is drawn to him. Someone understands why he is angry."
+      },
+      {
+        "role": "audrey",
+        "speaker": "Audrey",
+        "text": "But feeling wronged doesn't tell you who actually did something wrong.",
+        "audioText": "[questioning] But feeling wronged doesn't tell you who actually did something wrong."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Then mysterious acts of damage feed accusations. People begin counting every insult. Getting even starts to sound reasonable."
+      },
+      {
+        "role": "paxten",
+        "speaker": "Paxten",
+        "text": "When you're hurt, stopping first can feel like letting them win.",
+        "audioText": "[quietly] When you're hurt, stopping first can feel like letting them win."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "And each side can explain why it is right. The hands that grow food and build houses can also tear a community apart."
+      },
+      {
+        "role": "narrator",
+        "speaker": "Narrator",
+        "text": "Can Lina and Doon protect their people without deciding that everyone else is the enemy?"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Random House Children's Books, The People of Sparks",
+        "url": "https://www.rhcbooks.com/books/44104/the-people-of-sparks-by-jeanne-duprau",
+        "note": "Publisher description and opening excerpt support the arrival in Sparks, its initial welcome, and growing conflict over resources. Reveals the outcome of book one."
+      },
+      {
+        "label": "Penguin Random House, Educators' Guide to Jeanne DuPrau's Books",
+        "url": "https://images.penguinrandomhouse.com/promo_image/9780593643808_10185.pdf",
+        "note": "The People of Sparks section supports the six-month offer of help, pressure on food supplies, and Doon's attraction to Tick. The guide includes spoilers across the series."
+      },
+      {
+        "label": "Publishers Weekly, The People of Sparks review",
+        "url": "https://www.publishersweekly.com/9780375828249",
+        "note": "Used to check the newcomers' training for independent life, sabotage, and Lina's continuing hope of finding the city she imagined. Review contains spoilers."
+      }
+    ]
   }
 ]
